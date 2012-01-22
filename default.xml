@@ -227,7 +227,7 @@
   <project path="sdk" name="platform/sdk" />
   <project path="system/bluetooth" name="platform/system/bluetooth" />
   <project path="system/core" name="aospX/platform_system_core" remote="github" revision="ics"/>
-  <project path="system/extras" name="platform/system/extras" />
+  <project path="system/extras" name="aospX/platform_system_extras" remote="github" revision="ics" />
   <project path="system/media" name="platform/system/media" />
   <project path="system/netd" name="platform/system/netd" />
   <project path="system/vold" name="aospX/platform_system_vold" remote="github" revision="ics"/>
@@ -266,7 +266,7 @@
   <project path="vendor/htc" name="aospX/platform_vendor_htc" remote="github" revision="ics"/>
 
   <!-- Superuser -->
-  <project path="packages/apps/Superuser" name="ChainsDD/Superuser" remote="github" revision="master" />
-  <project path="system/extras/su" name="ChainsDD/su-binary" remote="github" revision="master"/>
+  <project path="packages/apps/Superuser" name="CyanogenMod/android_packages_apps_Superuser" remote="github" revision="ics" />
+  <project path="system/su" name="CyanogenMod/android_system_su" remote="github" revision="ics"/>
 
 </manifest>
