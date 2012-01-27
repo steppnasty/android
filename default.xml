@@ -261,7 +261,7 @@
   <project path="external/lzo" name="CyanogenMod/android_external_lzo" remote="github" revision="ics" />
 
   <!-- Vendor Files -->
-  <project path="vendor/aospX" name="aospX/platform_vendor_aospX" remote="github" revision="ics"/>
+  <project path="vendor/aospx" name="aospX/platform_vendor_aospx" remote="github" revision="ics"/>
   <project path="vendor/google" name="aospX/platform_vendor_google" remote="github" revision="ics"/>
   <project path="vendor/htc" name="aospX/platform_vendor_htc" remote="github" revision="ics"/>
 
