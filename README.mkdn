@@ -16,7 +16,3 @@ To build:
     . build/envsetup.sh
     lunch aospx_ace-userdebug
     make -j4 aospx
-
-Building with Linaro 4.6:
-
-    make -j4 aospx TARGET_TOOLS_PREFIX=prebuilt/linux-x86/toolchain/arm-eabi-4.6.3/bin/arm-linux-androideabi-
