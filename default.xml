@@ -103,7 +103,7 @@
   <project path="external/llvm" name="platform/external/llvm" />
   <project path="external/lohit-fonts" name="platform/external/lohit-fonts" />
   <project path="external/markdown" name="platform/external/markdown" />
-  <project path="external/mesa3d" name="platform/external/mesa3d" />
+  <project path="external/mesa3d" name="platform/external/mesa3d" revision="master" />
   <project path="external/mksh" name="platform/external/mksh" />
   <project path="external/mockwebserver" name="platform/external/mockwebserver" />
   <project path="external/mtpd" name="platform/external/mtpd" />
@@ -153,7 +153,7 @@
   <project path="frameworks/base" name="aospX/platform_frameworks_base" remote="github" revision="ics"/>
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" />
   <project path="frameworks/compile/linkloader" name="platform/frameworks/compile/linkloader" />
-  <project path="frameworks/compile/slang" name="platform/frameworks/compile/slang" revision="master" />
+  <project path="frameworks/compile/slang" name="aospX/platform_frameworks_compile_slang" remote="github" revision="ics" />
   <project path="frameworks/ex" name="platform/frameworks/ex" />
   <project path="frameworks/media/libvideoeditor" name="platform/frameworks/media/libvideoeditor" />
   <project path="frameworks/opt/calendar" name="platform/frameworks/opt/calendar" />
