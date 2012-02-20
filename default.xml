@@ -165,7 +165,7 @@
   <project path="hardware/invensense" name="platform/hardware/invensense" />
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" />
   <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" />
-  <project path="libcore" name="platform/libcore" />
+  <project path="libcore" name="aospX/platform_libcore" remote="github" revision="ics-devel"/>
   <project path="ndk" name="platform/ndk" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" />
   <project path="packages/apps/Bluetooth" name="aospX/platform_packages_apps_Bluetooth" remote="github" revision="ics-devel" />
