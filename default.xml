@@ -265,6 +265,8 @@
   <project path="vendor/aospx" name="aospX/platform_vendor_aospx" remote="github" revision="ics-devel"/>
   <project path="vendor/google" name="aospX/platform_vendor_google" remote="github" revision="ics-devel"/>
   <project path="vendor/htc" name="aospX/platform_vendor_htc" remote="github" revision="ics-devel"/>
+  <project path="vendor/qcom/opensource/omx/mm-core" name="aospX/platform_vendor_qcom_opensource_omx_mm-core" remote="github" revision="ics-devel"/>
+  <project path="vendor/qcom/opensource/omx/mm-video" name="aospX/platform_vendor_qcom_opensource_omx_mm-video" remote="github" revision="ics-devel"/>
 
   <!-- Superuser -->
   <project path="packages/apps/Superuser" name="CyanogenMod/android_packages_apps_Superuser" remote="github" revision="ics" />
