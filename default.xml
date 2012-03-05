@@ -270,7 +270,7 @@
   <project path="vendor/qcom/opensource/v8" name="aospX/platform_vendor_qcom_opensource_v8" remote="github" revision="master"/>
 
   <!-- Superuser -->
-  <project path="packages/apps/Superuser" name="CyanogenMod/android_packages_apps_Superuser" remote="github" revision="ics" />
-  <project path="system/su" name="CyanogenMod/android_system_su" remote="github" revision="ics"/>
+  <project path="packages/apps/Superuser" name="aospX/platform_packages_apps_Superuser" remote="github" revision="ics" />
+  <project path="system/su" name="aospX/platform_system_su" remote="github" revision="ics"/>
 
 </manifest>
