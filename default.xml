@@ -149,7 +149,7 @@
   <project path="external/wpa_supplicant_8" name="CyanogenMod/android_external_wpa_supplicant_8" remote="github" revision="ics"/>
   <project path="external/xmlwriter" name="platform/external/xmlwriter" />
   <project path="external/yaffs2" name="CyanogenMod/android_external_yaffs2" remote="github" revision="ics" />
-  <project path="external/zlib" name="CyanogenMod/android_external_zlib" remote="github" revision="ics" />
+  <project path="external/zlib" name="aospX/platform_external_zlib" remote="github" revision="ics-devel" />
   <project path="frameworks/base" name="aospX/platform_frameworks_base" remote="github" revision="ics-devel"/>
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" />
   <project path="frameworks/compile/linkloader" name="platform/frameworks/compile/linkloader" />
