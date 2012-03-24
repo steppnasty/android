@@ -13,6 +13,9 @@
   <remote  name="linaro"
            fetch="git://git.linaro.org/" />
 
+  <remote  name="caf"
+           fetch="git://codeaurora.org/" />
+
   <project path="build" name="aospX/platform_build" remote="github" revision="ics-devel">
     <copyfile src="core/root.mk" dest="Makefile" />
     <copyfile src="target/platform/qcom.mk" dest="hardware/qcom/Android.mk" />
@@ -279,7 +282,7 @@
   <project path="vendor/htc" name="aospX/platform_vendor_htc" remote="github" revision="ics-devel"/>
   <project path="vendor/qcom/opensource/omx/mm-core" name="aospX/platform_vendor_qcom_opensource_omx_mm-core" remote="github" revision="ics-devel"/>
   <project path="vendor/qcom/opensource/omx/mm-video" name="aospX/platform_vendor_qcom_opensource_omx_mm-video" remote="github" revision="ics-devel"/>
-  <project path="vendor/qcom/opensource/v8" name="aospX/platform_vendor_qcom_opensource_v8" remote="github" revision="master"/>
+  <project path="vendor/qcom/opensource/v8" name="platform/vendor/qcom-opensource/v8" remote="caf" revision="ics_chocolate"/>
 
   <!-- Superuser -->
   <project path="packages/apps/Superuser" name="aospX/platform_packages_apps_Superuser" remote="github" revision="ics" />
