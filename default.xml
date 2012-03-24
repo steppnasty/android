@@ -286,6 +286,7 @@
   <project path="vendor/qcom/opensource/omx/mm-core" name="aospX/platform_vendor_qcom_opensource_omx_mm-core" remote="github" revision="ics-devel"/>
   <project path="vendor/qcom/opensource/omx/mm-video" name="aospX/platform_vendor_qcom_opensource_omx_mm-video" remote="github" revision="ics-devel"/>
   <project path="vendor/qcom/opensource/v8" name="platform/vendor/qcom-opensource/v8" remote="caf" revision="ics_chocolate"/>
+  <project path="vendor/qcom/proprietary" name="aospX/platform_vendor_qcom_proprietary" remote="github" revision="ics-devel"/>
 
   <!-- Superuser -->
   <project path="packages/apps/Superuser" name="aospX/platform_packages_apps_Superuser" remote="github" revision="ics" />
