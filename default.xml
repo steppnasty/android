@@ -10,6 +10,9 @@
   <remote  name="github"
            fetch="git://github.com/" />
 
+  <remote  name="linaro"
+           fetch="git://git.linaro.org/" />
+
   <project path="build" name="aospX/platform_build" remote="github" revision="ics-devel">
     <copyfile src="core/root.mk" dest="Makefile" />
     <copyfile src="target/platform/qcom.mk" dest="hardware/qcom/Android.mk" />
@@ -85,7 +88,7 @@
   <project path="external/javassist" name="platform/external/javassist" />
   <project path="external/jdiff" name="platform/external/jdiff" />
   <project path="external/jhead" name="platform/external/jhead" />
-  <project path="external/jpeg" name="aospX/platform_external_jpeg" remote="github" revision="ics-devel" />
+  <project path="external/jpeg" name="people/tomgall/libjpeg-turbo/libjpeg-turbo" remote="linaro" revision="android" />
   <project path="external/jsilver" name="platform/external/jsilver" />
   <project path="external/jsr305" name="platform/external/jsr305" />
   <project path="external/junit" name="platform/external/junit" />
