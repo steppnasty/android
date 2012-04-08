@@ -106,7 +106,7 @@
   <project path="external/libnfc-nxp" name="platform/external/libnfc-nxp" />
   <project path="external/libnl-headers" name="platform/external/libnl-headers" />
   <project path="external/libpcap" name="platform/external/libpcap" />
-  <project path="external/libphonenumber" name="platform/external/libphonenumber" />
+  <project path="external/libphonenumber" name="aospX/platform_external_libphonenumber" remote="github" revision="ics-devel"/>
   <project path="external/libpng" name="aospX/platform_external_libpng" remote="github" revision="ics-devel"/>
   <project path="external/libselinux" name="platform/external/libselinux" />
   <project path="external/libsepol" name="platform/external/libsepol" />
