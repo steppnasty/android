@@ -171,7 +171,7 @@
   <project path="frameworks/compile/linkloader" name="platform/frameworks/compile/linkloader" />
   <project path="frameworks/compile/slang" name="aospX/platform_frameworks_compile_slang" remote="github" revision="ics-devel" />
   <project path="frameworks/ex" name="platform/frameworks/ex" />
-  <project path="frameworks/media/libvideoeditor" name="platform/frameworks/media/libvideoeditor" />
+  <project path="frameworks/media/libvideoeditor" name="aospX/platform_frameworks_media_libvideoeditor" remote="github" revision="ics-devel" />
   <project path="frameworks/opt/calendar" name="platform/frameworks/opt/calendar" />
   <project path="frameworks/opt/emoji" name="platform/frameworks/opt/emoji" />
   <project path="frameworks/opt/inputmethodcommon" name="platform/frameworks/opt/inputmethodcommon" />
