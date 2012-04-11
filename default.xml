@@ -203,7 +203,7 @@
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" />
   <project path="packages/apps/Launcher2" name="aospX/platform_packages_apps_Launcher2" remote="github" revision="ics-devel"/>
   <project path="packages/apps/Mms" name="aospX/platform_packages_apps_Mms" remote="github" revision="ics-devel" />
-  <project path="packages/apps/Music" name="aospX/platform_packages_apps_Music" remote="github" revision="ics-devel" />
+  <project path="packages/apps/Music" name="aospX/platform_packages_apps_Music" remote="github" revision="ics_chocolate-caf" />
   <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" />
   <project path="packages/apps/Nfc" name="platform/packages/apps/Nfc" />
   <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" />
