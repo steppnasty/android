@@ -57,7 +57,7 @@
   <project path="external/bouncycastle" name="platform/external/bouncycastle" />
   <project path="external/bsdiff" name="platform/external/bsdiff" />
   <project path="external/bzip2" name="platform/external/bzip2" />
-  <project path="external/chromium" name="platform/external/chromium" />
+  <project path="external/chromium" name="aospX/platform_external_chromium" remote="github" revision="ics-devel" />
   <project path="external/clang" name="aospX/platform_external_clang" remote="github" revision="ics-devel" />
   <project path="external/collada" name="platform/external/collada" />
   <project path="external/dbus" name="platform/external/dbus" />
@@ -111,7 +111,7 @@
   <project path="external/libselinux" name="platform/external/libselinux" />
   <project path="external/libsepol" name="platform/external/libsepol" />
   <project path="external/libvpx" name="platform/external/libvpx" />
-  <project path="external/libxml2" name="platform/external/libxml2" />
+  <project path="external/libxml2" name="aospX/platform_external_libxml2" remote="github" revision="ics-devel" />
   <project path="external/libxslt" name="platform/external/libxslt" />
   <project path="external/libyuv" name="platform/external/libyuv" />
   <project path="external/llvm" name="platform/external/llvm" />
@@ -125,6 +125,9 @@
   <project path="external/netperf" name="platform/external/netperf" />
   <project path="external/neven" name="platform/external/neven" />
   <project path="external/nist-sip" name="platform/external/nist-sip" />
+  <project path="external/node-sqlite-async" name="platform/external/node-sqlite-async" remote="caf" revision="ics_chocolate" />
+  <project path="external/node-sqlite-sync" name="platform/external/node-sqlite-sync" remote="caf" revision="ics_chocolate" />
+  <project path="external/node" name="platform/external/node" remote="caf" revision="ics_chocolate" />
   <project path="external/oauth" name="platform/external/oauth" />
   <project path="external/opencv" name="platform/external/opencv" />
   <project path="external/openssl" name="platform/external/openssl" />
@@ -141,7 +144,7 @@
   <project path="external/replicaisland" name="platform/external/replicaisland" />
   <project path="external/safe-iop" name="platform/external/safe-iop" />
   <project path="external/sepolicy" name="platform/external/sepolicy" />
-  <project path="external/skia" name="aospX/platform_external_skia" remote="github" revision="ics-devel"/>
+  <project path="external/skia" name="aospX/platform_external_skia" remote="github" revision="ics_chocolate-caf"/>
   <project path="external/sonivox" name="platform/external/sonivox" />
   <project path="external/speex" name="platform/external/speex" />
   <project path="external/sqlite" name="aospX/platform_external_sqlite" remote="github" revision="ics-devel"/>
@@ -155,9 +158,9 @@
   <project path="external/tinyalsa" name="platform/external/tinyalsa" />
   <project path="external/tinyxml" name="platform/external/tinyxml" />
   <project path="external/tremolo" name="platform/external/tremolo" />
-  <project path="external/v8" name="aospX/platform_external_v8" remote="github" revision="ics-devel" />
+  <project path="external/v8" name="aospX/platform_external_v8" remote="github" revision="ics_chocolate-caf" />
   <project path="external/valgrind" name="platform/external/valgrind" />
-  <project path="external/webkit" name="aospX/platform_external_webkit" remote="github" revision="ics-devel"/> 
+  <project path="external/webkit" name="aospX/platform_external_webkit" remote="github" revision="ics_chocolate-caf"/> 
   <project path="external/webp" name="platform/external/webp" />
   <project path="external/webrtc" name="platform/external/webrtc" />
   <project path="external/wpa_supplicant" name="platform/external/wpa_supplicant" />
@@ -288,6 +291,7 @@
   <project path="vendor/qcom/opensource/omx/mm-core" name="aospX/platform_vendor_qcom_opensource_omx_mm-core" remote="github" revision="ics-devel"/>
   <project path="vendor/qcom/opensource/omx/mm-video" name="aospX/platform_vendor_qcom_opensource_omx_mm-video" remote="github" revision="ics-devel"/>
   <project path="vendor/qcom/opensource/v8" name="platform/vendor/qcom-opensource/v8" remote="caf" revision="ics_chocolate"/>
+  <project path="vendor/qcom/opensource/webkit" name="platform/vendor/qcom-opensource/webkit" remote="caf" revision="ics_chocolate"/>
   <project path="vendor/qcom/proprietary" name="aospX/platform_vendor_qcom_proprietary" remote="github" revision="ics-devel"/>
 
   <!-- Superuser -->
