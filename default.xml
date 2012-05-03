@@ -115,7 +115,7 @@
   <project path="external/libxml2" name="aospX/platform_external_libxml2" remote="github" revision="ics-devel" />
   <project path="external/libxslt" name="platform/external/libxslt" />
   <project path="external/libyuv" name="platform/external/libyuv" />
-  <project path="external/llvm" name="platform/external/llvm" />
+  <project path="external/llvm" name="aospX/platform_external_llvm" remote="github" revision="ics-devel" />
   <project path="external/lohit-fonts" name="platform/external/lohit-fonts" />
   <project path="external/markdown" name="platform/external/markdown" />
   <project path="external/mesa3d" name="platform/external/mesa3d" revision="master" />
