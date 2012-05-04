@@ -149,7 +149,7 @@
   <project path="external/sonivox" name="platform/external/sonivox" />
   <project path="external/speex" name="platform/external/speex" />
   <project path="external/sqlite" name="aospX/platform_external_sqlite" remote="github" revision="ics-devel"/>
-  <project path="external/srec" name="platform/external/srec" />
+  <project path="external/srec" name="aospX/platform_external_srec" remote="github" revision="ics-devel" />
   <project path="external/srtp" name="platform/external/srtp" />
   <project path="external/stlport" name="aospX/platform_external_stlport" remote="github" revision="ics-devel" />
   <project path="external/strace" name="platform/external/strace" />
