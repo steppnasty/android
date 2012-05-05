@@ -158,7 +158,7 @@
   <project path="external/tcpdump" name="platform/external/tcpdump" />
   <project path="external/tinyalsa" name="platform/external/tinyalsa" />
   <project path="external/tinyxml" name="platform/external/tinyxml" />
-  <project path="external/tremolo" name="platform/external/tremolo" />
+  <project path="external/tremolo" name="aospX/platform_external_tremolo" remote="github" revision="ics-devel" />
   <project path="external/v8" name="aospX/platform_external_v8" remote="github" revision="ics_chocolate-caf" />
   <project path="external/valgrind" name="platform/external/valgrind" />
   <project path="external/webkit" name="aospX/platform_external_webkit" remote="github" revision="ics_chocolate-caf"/> 
