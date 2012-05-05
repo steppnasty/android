@@ -267,7 +267,7 @@
   <project path="system/core" name="aospX/platform_system_core" remote="github" revision="ics-devel"/>
   <project path="system/extras" name="aospX/platform_system_extras" remote="github" revision="ics-devel" />
   <project path="system/media" name="platform/system/media" />
-  <project path="system/netd" name="platform/system/netd" />
+  <project path="system/netd" name="CyanogenMod/android_system_netd" remote="github" revision="ics" />
   <project path="system/vold" name="aospX/platform_system_vold" remote="github" revision="ics-devel"/>
 
   <!-- Device Files -->
