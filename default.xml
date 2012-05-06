@@ -152,7 +152,7 @@
   <project path="external/srec" name="platform/external/srec" />
   <project path="external/srtp" name="platform/external/srtp" />
   <project path="external/stlport" name="aospX/platform_external_stlport" remote="github" revision="ics-devel" />
-  <project path="external/strace" name="platform/external/strace" />
+  <project path="external/strace" name="CyanogenMod/android_external_strace" remote="github" revision="ics" />
   <project path="external/svox" name="platform/external/svox" />
   <project path="external/tagsoup" name="platform/external/tagsoup" />
   <project path="external/tcpdump" name="platform/external/tcpdump" />
