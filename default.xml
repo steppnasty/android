@@ -58,7 +58,7 @@
   <project path="external/bsdiff" name="platform/external/bsdiff" />
   <project path="external/bzip2" name="platform/external/bzip2" />
   <project path="external/checkpolicy" name="platform/external/checkpolicy" />
-  <project path="external/chromium" name="aospX/platform_external_chromium" remote="github" revision="ics-devel" />
+  <project path="external/chromium" name="aospX/platform_external_chromium" remote="github" revision="ics_chocolate-caf" />
   <project path="external/clang" name="aospX/platform_external_clang" remote="github" revision="ics-devel" />
   <project path="external/collada" name="platform/external/collada" />
   <project path="external/dbus" name="platform/external/dbus" />
@@ -108,11 +108,11 @@
   <project path="external/libnl-headers" name="platform/external/libnl-headers" />
   <project path="external/libpcap" name="platform/external/libpcap" />
   <project path="external/libphonenumber" name="aospX/platform_external_libphonenumber" remote="github" revision="ics-devel"/>
-  <project path="external/libpng" name="aospX/platform_external_libpng" remote="github" revision="ics-devel"/>
+  <project path="external/libpng" name="aospX/platform_external_libpng" remote="github" revision="ics_chocolate-caf"/>
   <project path="external/libselinux" name="platform/external/libselinux" />
   <project path="external/libsepol" name="platform/external/libsepol" />
   <project path="external/libvpx" name="platform/external/libvpx" />
-  <project path="external/libxml2" name="aospX/platform_external_libxml2" remote="github" revision="ics-devel" />
+  <project path="external/libxml2" name="aospX/platform_external_libxml2" remote="github" revision="ics_chocolate-caf" />
   <project path="external/libxslt" name="platform/external/libxslt" />
   <project path="external/libyuv" name="platform/external/libyuv" />
   <project path="external/llvm" name="aospX/platform_external_llvm" remote="github" revision="ics-devel" />
@@ -301,8 +301,8 @@
   <project path="vendor/aospx" name="aospX/platform_vendor_aospx" remote="github" revision="ics-devel"/>
   <project path="vendor/google" name="aospX/platform_vendor_google" remote="github" revision="ics-devel"/>
   <project path="vendor/htc" name="aospX/platform_vendor_htc" remote="github" revision="ics-devel"/>
-  <project path="vendor/qcom/opensource/omx/mm-core" name="aospX/platform_vendor_qcom_opensource_omx_mm-core" remote="github" revision="ics-devel"/>
-  <project path="vendor/qcom/opensource/omx/mm-video" name="aospX/platform_vendor_qcom_opensource_omx_mm-video" remote="github" revision="ics-devel"/>
+  <project path="vendor/qcom/opensource/omx/mm-core" name="aospX/platform_vendor_qcom_opensource_omx_mm-core" remote="github" revision="ics_chocolate-caf"/>
+  <project path="vendor/qcom/opensource/omx/mm-video" name="aospX/platform_vendor_qcom_opensource_omx_mm-video" remote="github" revision="ics_chocolate-caf"/>
   <project path="vendor/qcom/opensource/v8" name="platform/vendor/qcom-opensource/v8" remote="caf" revision="ics_chocolate"/>
   <project path="vendor/qcom/opensource/webkit" name="platform/vendor/qcom-opensource/webkit" remote="caf" revision="ics_chocolate"/>
   <project path="vendor/qcom/proprietary" name="aospX/platform_vendor_qcom_proprietary" remote="github" revision="ics-devel"/>
