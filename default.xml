@@ -107,7 +107,7 @@
   <project path="external/libnfc-nxp" name="platform/external/libnfc-nxp" />
   <project path="external/libnl-headers" name="platform/external/libnl-headers" />
   <project path="external/libpcap" name="platform/external/libpcap" />
-  <project path="external/libphonenumber" name="aospX/platform_external_libphonenumber" remote="github" revision="ics-devel"/>
+  <project path="external/libphonenumber" name="aospX/platform_external_libphonenumber" remote="github" revision="ics_chocolate-caf"/>
   <project path="external/libpng" name="aospX/platform_external_libpng" remote="github" revision="ics_chocolate-caf"/>
   <project path="external/libselinux" name="platform/external/libselinux" />
   <project path="external/libsepol" name="platform/external/libsepol" />
@@ -175,7 +175,7 @@
   <project path="frameworks/compile/linkloader" name="platform/frameworks/compile/linkloader" />
   <project path="frameworks/compile/slang" name="aospX/platform_frameworks_compile_slang" remote="github" revision="ics-devel" />
   <project path="frameworks/ex" name="platform/frameworks/ex" />
-  <project path="frameworks/media/libvideoeditor" name="aospX/platform_frameworks_media_libvideoeditor" remote="github" revision="ics-devel" />
+  <project path="frameworks/media/libvideoeditor" name="aospX/platform_frameworks_media_libvideoeditor" remote="github" revision="ics_chocolate-caf" />
   <project path="frameworks/opt/calendar" name="platform/frameworks/opt/calendar" />
   <project path="frameworks/opt/emoji" name="platform/frameworks/opt/emoji" />
   <project path="frameworks/opt/inputmethodcommon" name="platform/frameworks/opt/inputmethodcommon" />
