@@ -104,7 +104,7 @@
   <project path="external/liblzf" name="platform/external/liblzf" />
   <project path="external/libnfc-nxp" name="platform/external/libnfc-nxp" />
   <project path="external/libnl-headers" name="platform/external/libnl-headers" />
-  <project path="external/libpcap" name="platform/external/libpcap" />
+  <project path="external/libpcap" name="CyanogenMod/android_external_libpcap" remote="github" revision="ics" />
   <project path="external/libphonenumber" name="aospX/platform_external_libphonenumber" remote="github" revision="ics_chocolate-caf"/>
   <project path="external/libpng" name="aospX/platform_external_libpng" remote="github" revision="ics_chocolate-caf"/>
   <project path="external/libselinux" name="platform/external/libselinux" />
@@ -153,7 +153,7 @@
   <project path="external/strace" name="CyanogenMod/android_external_strace" remote="github" revision="ics" />
   <project path="external/svox" name="platform/external/svox" />
   <project path="external/tagsoup" name="platform/external/tagsoup" />
-  <project path="external/tcpdump" name="platform/external/tcpdump" />
+  <project path="external/tcpdump" name="CyanogenMod/android_external_tcpdump" remote="github" revision="ics" />
   <project path="external/tinyalsa" name="platform/external/tinyalsa" />
   <project path="external/tinyxml" name="platform/external/tinyxml" />
   <project path="external/tremolo" name="aospX/platform_external_tremolo" remote="github" revision="ics-devel" />
