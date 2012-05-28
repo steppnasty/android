@@ -182,7 +182,7 @@
   <project path="frameworks/support" name="platform/frameworks/support" />
   <project path="hardware/invensense" name="platform/hardware/invensense" />
   <project path="kernel/msm7x30" name="existz/htc-kernel-msm7x30" remote="github" revision="android-msm-2.6.35-ics" />
-  <project path="libcore" name="platform/libcore" />
+  <project path="libcore" name="aospX/platform_libcore" remote="github" revision="ics_chocolate-caf" />
   <project path="ndk" name="platform/ndk" />
   <project path="packages/apps/0xbench" name="platform/packages/apps/0xbench" remote="linaro-android" revision="linaro-master" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" />
