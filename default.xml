@@ -31,7 +31,7 @@
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" />
   <project path="bootable/recovery" name="platform/bootable/recovery" />
   <project path="cts" name="platform/cts" />
-  <project path="dalvik" name="aospX/platform_dalvik" remote="github" revision="ics-devel" />
+  <project path="dalvik" name="aospX/platform_dalvik" remote="github" revision="ics_chocolate-caf" />
   <project path="development" name="aospX/platform_development" remote="github" revision="ics-devel" />
   <project path="device/common" name="device/common" />
   <project path="device/generic/goldfish" name="device/generic/goldfish" />
