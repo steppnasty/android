@@ -7,6 +7,10 @@ To initialize your local repository using the aospX trees, use a command like th
 
     repo init -u git://github.com/aospX/android.git -b ics-devel
 
+To build a snapshot release, use a command like this:
+
+    repo init -u git://github.com/aospX/android.git -b ics-devel -m MSM7230BR20603.xml
+
 Then to sync up:
 
     repo sync
