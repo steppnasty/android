@@ -10,6 +10,8 @@
   
   <project name="CyanogenMod/android_external_bash" path="external/bash" remote="github" revision="ics"/>
   <project name="CyanogenMod/android_external_busybox" path="external/busybox" remote="github" revision="ics"/>
+  <project name="CyanogenMod/android_external_dnsmasq" path="external/dnsmasq" remote="github" revision="ics"/>
+  <project name="CyanogenMod/android_external_embunit" path="external/embunit" remote="github" revision="ics"/>
   <project name="CyanogenMod/android_external_iproute2" path="external/iproute2" remote="github" revision="ics"/>
   <project name="CyanogenMod/android_external_iptables" path="external/iptables" remote="github" revision="ics"/>
   <project name="CyanogenMod/android_external_libncurses" path="external/libncurses" remote="github" revision="ics"/>
@@ -17,8 +19,12 @@
   <project name="CyanogenMod/android_external_lsof" path="external/lsof" remote="github" revision="ics"/>
   <project name="CyanogenMod/android_external_lzo" path="external/lzo" remote="github" revision="ics"/>
   <project name="CyanogenMod/android_external_nano" path="external/nano" remote="github" revision="ics"/>
+  <project name="CyanogenMod/android_external_openssl" path="external/openssl" remote="github" revision="ics"/>
   <project name="CyanogenMod/android_external_openvpn" path="external/openvpn" remote="github" revision="ics"/>
+  <project name="CyanogenMod/android_external_ping" path="external/ping" remote="github" revision="ics"/>
+  <project name="CyanogenMod/android_external_ping6" path="external/ping6" remote="github" revision="ics"/>
   <project name="CyanogenMod/android_external_rsync" path="external/rsync" remote="github"/>
+  <project name="CyanogenMod/android_external_sonivox" path="external/sonivox" remote="github" revision="ics"/>
   <project name="CyanogenMod/android_external_strace" path="external/strace" remote="github" revision="ics"/>
   <project name="CyanogenMod/android_external_tcpdump" path="external/tcpdump" remote="github" revision="ics"/>
   <project name="CyanogenMod/android_external_vim" path="external/vim" remote="github"/>
@@ -125,7 +131,6 @@
   <project name="platform/external/collada" path="external/collada"/>
   <project name="platform/external/dbus" path="external/dbus"/>
   <project name="platform/external/dhcpcd" path="external/dhcpcd"/>
-  <project name="platform/external/dnsmasq" path="external/dnsmasq"/>
   <project name="platform/external/doclava" path="external/doclava"/>
   <project name="platform/external/dropbear" path="external/dropbear"/>
   <project name="platform/external/e2fsprogs" path="external/e2fsprogs"/>
@@ -133,7 +138,6 @@
   <project name="platform/external/eclipse-basebuilder" path="external/eclipse-basebuilder"/>
   <project name="platform/external/eclipse-windowbuilder" path="external/eclipse-windowbuilder"/>
   <project name="platform/external/elfutils" path="external/elfutils"/>
-  <project name="platform/external/embunit" path="external/embunit"/>
   <project name="platform/external/emma" path="external/emma"/>
   <project name="platform/external/esd" path="external/esd"/>
   <project name="platform/external/expat" path="external/expat"/>
@@ -182,11 +186,8 @@
   <project name="platform/external/node-sqlite-sync" path="external/node-sqlite-sync" remote="caf" revision="ics_chocolate"/>
   <project name="platform/external/oauth" path="external/oauth"/>
   <project name="platform/external/opencv" path="external/opencv"/>
-  <project name="platform/external/openssl" path="external/openssl"/>
   <project name="platform/external/oprofile" path="external/oprofile"/>
   <project name="platform/external/pcre" path="external/pcre"/>
-  <project name="platform/external/ping" path="external/ping"/>
-  <project name="platform/external/ping6" path="external/ping6"/>
   <project name="platform/external/ppp" path="external/ppp"/>
   <project name="platform/external/proguard" path="external/proguard"/>
   <project name="platform/external/protobuf" path="external/protobuf"/>
@@ -196,7 +197,6 @@
   <project name="platform/external/replicaisland" path="external/replicaisland"/>
   <project name="platform/external/safe-iop" path="external/safe-iop"/>
   <project name="platform/external/sepolicy" path="external/sepolicy"/>
-  <project name="platform/external/sonivox" path="external/sonivox"/>
   <project name="platform/external/speex" path="external/speex"/>
   <project name="platform/external/srec" path="external/srec"/>
   <project name="platform/external/srtp" path="external/srtp"/>
