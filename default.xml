@@ -65,6 +65,7 @@
   <project name="aospX/platform_external_wpa_supplicant_8" path="external/wpa_supplicant_8" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_zlib" path="external/zlib" remote="github" revision="slhash"/>
   <project name="aospX/platform_frameworks_base" path="frameworks/base" remote="github" revision="ics-devel"/>
+  <project name="aospX/platform_frameworks_ex" path="frameworks/ex" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_frameworks_compile_slang" path="frameworks/compile/slang" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_frameworks_media_libvideoeditor" path="frameworks/media/libvideoeditor" remote="github" revision="ics_chocolate-caf"/>
   <project name="aospX/platform_hardware_libhardware" path="hardware/libhardware" remote="github" revision="ics-devel"/>
@@ -92,6 +93,7 @@
   <project name="aospX/platform_prebuilt" path="prebuilt" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_system_core" path="system/core" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_system_extras" path="system/extras" remote="github" revision="ics-devel"/>
+  <project name="aospX/platform_system_media" path="system/media" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_system_su" path="system/su" remote="github" revision="ics"/>
   <project name="aospX/platform_system_vold" path="system/vold" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_vendor_aospx" path="vendor/aospx" remote="github" revision="ics-devel"/>
@@ -213,7 +215,6 @@
   <project name="platform/external/yaffs2" path="external/yaffs2"/>
   <project name="platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc"/>
   <project name="platform/frameworks/compile/linkloader" path="frameworks/compile/linkloader"/>
-  <project name="platform/frameworks/ex" path="frameworks/ex"/>
   <project name="platform/frameworks/opt/calendar" path="frameworks/opt/calendar"/>
   <project name="platform/frameworks/opt/emoji" path="frameworks/opt/emoji"/>
   <project name="platform/frameworks/opt/inputmethodcommon" path="frameworks/opt/inputmethodcommon"/>
@@ -280,7 +281,6 @@
   <project name="platform/prebuilts/tools" path="prebuilts/tools"/>
   <project name="platform/sdk" path="sdk"/>
   <project name="platform/system/bluetooth" path="system/bluetooth"/>
-  <project name="platform/system/media" path="system/media"/>
   <project name="platform/vendor/qcom-opensource/v8" path="vendor/qcom/opensource/v8" remote="caf" revision="ics_chocolate"/>
   <project name="platform/vendor/qcom-opensource/webkit" path="vendor/qcom/opensource/webkit" remote="caf" revision="ics_chocolate"/>
 </manifest>
