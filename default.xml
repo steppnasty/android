@@ -9,18 +9,15 @@
   <default remote="aosp" revision="master" sync-j="4"/>
   
   <project name="CyanogenMod/android_external_bash" path="external/bash" remote="github" revision="ics"/>
-  <project name="CyanogenMod/android_external_busybox" path="external/busybox" remote="github" revision="ics"/>
   <project name="CyanogenMod/android_external_dnsmasq" path="external/dnsmasq" remote="github" revision="ics"/>
   <project name="CyanogenMod/android_external_embunit" path="external/embunit" remote="github" revision="ics"/>
   <project name="CyanogenMod/android_external_iproute2" path="external/iproute2" remote="github" revision="ics"/>
   <project name="CyanogenMod/android_external_iptables" path="external/iptables" remote="github" revision="ics"/>
   <project name="CyanogenMod/android_external_libncurses" path="external/libncurses" remote="github" revision="ics"/>
   <project name="CyanogenMod/android_external_libpcap" path="external/libpcap" remote="github" revision="ics"/>
-  <project name="CyanogenMod/android_external_lsof" path="external/lsof" remote="github" revision="ics"/>
   <project name="CyanogenMod/android_external_lzo" path="external/lzo" remote="github" revision="ics"/>
   <project name="CyanogenMod/android_external_nano" path="external/nano" remote="github" revision="ics"/>
   <project name="CyanogenMod/android_external_openssl" path="external/openssl" remote="github" revision="ics"/>
-  <project name="CyanogenMod/android_external_openvpn" path="external/openvpn" remote="github" revision="ics"/>
   <project name="CyanogenMod/android_external_ping" path="external/ping" remote="github" revision="ics"/>
   <project name="CyanogenMod/android_external_ping6" path="external/ping6" remote="github" revision="ics"/>
   <project name="CyanogenMod/android_external_rsync" path="external/rsync" remote="github"/>
@@ -47,16 +44,22 @@
   <project name="aospX/platform_device_htc_msm7x30-common" path="device/htc/msm7x30-common" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_bluetooth_bluez" path="external/bluetooth/bluez" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_bluetooth_glib" path="external/bluetooth/glib" remote="github" revision="ics-devel"/>
+  <project name="aospX/platform_external_busybox" path="external/busybox" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_chromium" path="external/chromium" remote="github" revision="ics_chocolate-caf"/>
   <project name="aospX/platform_external_clang" path="external/clang" remote="github" revision="ics-devel"/>
+  <project name="aospX/platform_external_e2fsprogs" path="external/e2fsprogs" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_freetype" path="external/freetype" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_icu4c" path="external/icu4c" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_libphonenumber" path="external/libphonenumber" remote="github" revision="ics_chocolate-caf"/>
   <project name="aospX/platform_external_libpng" path="external/libpng" remote="github" revision="ics_chocolate-caf"/>
   <project name="aospX/platform_external_libxml2" path="external/libxml2" remote="github" revision="ics_chocolate-caf"/>
   <project name="aospX/platform_external_llvm" path="external/llvm" remote="github" revision="ics-devel"/>
+  <project name="aospX/platform_external_lsof" path="external/lsof" remote="github" revision="ics-devel"/>
+  <project name="aospX/platform_external_node" path="external/node" remote="github" revision="ics_chocolate-caf"/>
+  <project name="aospX/platform_external_openvpn" path="external/openvpn" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_skia" path="external/skia" remote="github" revision="ics_chocolate-caf"/>
   <project name="aospX/platform_external_sqlite" path="external/sqlite" remote="github" revision="ics-devel"/>
+  <project name="aospX/platform_external_srec" path="external/srec" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_stlport" path="external/stlport" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_tremolo" path="external/tremolo" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_v8" path="external/v8" remote="github" revision="ics_chocolate-caf"/>
@@ -134,7 +137,6 @@
   <project name="platform/external/dhcpcd" path="external/dhcpcd"/>
   <project name="platform/external/doclava" path="external/doclava"/>
   <project name="platform/external/dropbear" path="external/dropbear"/>
-  <project name="platform/external/e2fsprogs" path="external/e2fsprogs"/>
   <project name="platform/external/easymock" path="external/easymock"/>
   <project name="platform/external/eclipse-basebuilder" path="external/eclipse-basebuilder"/>
   <project name="platform/external/eclipse-windowbuilder" path="external/eclipse-windowbuilder"/>
@@ -183,7 +185,6 @@
   <project name="platform/external/netperf" path="external/netperf"/>
   <project name="platform/external/neven" path="external/neven"/>
   <project name="platform/external/nist-sip" path="external/nist-sip"/>
-  <project name="platform/external/node" path="external/node" remote="caf" revision="ics_chocolate"/>
   <project name="platform/external/node-sqlite-async" path="external/node-sqlite-async" remote="caf" revision="ics_chocolate"/>
   <project name="platform/external/node-sqlite-sync" path="external/node-sqlite-sync" remote="caf" revision="ics_chocolate"/>
   <project name="platform/external/oauth" path="external/oauth"/>
@@ -200,7 +201,6 @@
   <project name="platform/external/safe-iop" path="external/safe-iop"/>
   <project name="platform/external/sepolicy" path="external/sepolicy"/>
   <project name="platform/external/speex" path="external/speex"/>
-  <project name="platform/external/srec" path="external/srec"/>
   <project name="platform/external/srtp" path="external/srtp"/>
   <project name="platform/external/svox" path="external/svox"/>
   <project name="platform/external/tagsoup" path="external/tagsoup"/>
