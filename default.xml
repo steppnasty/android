@@ -133,6 +133,7 @@
   <project name="platform/external/bsdiff" path="external/bsdiff"/>
   <project name="platform/external/bzip2" path="external/bzip2"/>
   <project name="platform/external/checkpolicy" path="external/checkpolicy"/>
+  <project name="platform/external/chromium-trace" path="external/chromium-trace" />
   <project name="platform/external/collada" path="external/collada"/>
   <project name="platform/external/dbus" path="external/dbus"/>
   <project name="platform/external/dhcpcd" path="external/dhcpcd"/>
