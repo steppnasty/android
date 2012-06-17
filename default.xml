@@ -49,6 +49,7 @@
   <project name="aospX/platform_external_clang" path="external/clang" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_e2fsprogs" path="external/e2fsprogs" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_freetype" path="external/freetype" remote="github" revision="ics-devel"/>
+  <project name="aospX/platform_external_gtest" path="external/gtest" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_icu4c" path="external/icu4c" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_libphonenumber" path="external/libphonenumber" remote="github" revision="ics_chocolate-caf"/>
   <project name="aospX/platform_external_libpng" path="external/libpng" remote="github" revision="ics_chocolate-caf"/>
@@ -154,7 +155,6 @@
   <project name="platform/external/giflib" path="external/giflib"/>
   <project name="platform/external/google-diff-match-patch" path="external/google-diff-match-patch"/>
   <project name="platform/external/grub" path="external/grub"/>
-  <project name="platform/external/gtest" path="external/gtest"/>
   <project name="platform/external/guava" path="external/guava"/>
   <project name="platform/external/harfbuzz" path="external/harfbuzz"/>
   <project name="platform/external/hyphenation" path="external/hyphenation"/>
