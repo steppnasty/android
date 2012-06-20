@@ -95,6 +95,7 @@
   <project name="aospX/platform_packages_providers_DownloadProvider" path="packages/providers/DownloadProvider" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_packages_providers_MediaProvider" path="packages/providers/MediaProvider" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_prebuilt" path="prebuilt" remote="github" revision="ics-devel"/>
+  <project name="aospX/platform_system_bluetooth" path="system/bluetooth" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_system_core" path="system/core" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_system_extras" path="system/extras" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_system_media" path="system/media" remote="github" revision="ics-devel"/>
@@ -281,7 +282,6 @@
   <project name="platform/prebuilts/qemu-kernel" path="prebuilts/qemu-kernel"/>
   <project name="platform/prebuilts/tools" path="prebuilts/tools"/>
   <project name="platform/sdk" path="sdk"/>
-  <project name="platform/system/bluetooth" path="system/bluetooth"/>
   <project name="platform/vendor/qcom-opensource/v8" path="vendor/qcom/opensource/v8" remote="caf" revision="ics_chocolate"/>
   <project name="platform/vendor/qcom-opensource/webkit" path="vendor/qcom/opensource/webkit" remote="caf" revision="ics_chocolate"/>
 </manifest>
