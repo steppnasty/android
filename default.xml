@@ -70,6 +70,7 @@
   <project name="aospX/platform_external_zlib" path="external/zlib" remote="github" revision="slhash"/>
   <project name="aospX/platform_frameworks_base" path="frameworks/base" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_frameworks_ex" path="frameworks/ex" remote="github" revision="ics-devel"/>
+  <project name="aospX/platform_frameworks_compile_libbcc" path="frameworks/compile/libbcc" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_frameworks_compile_slang" path="frameworks/compile/slang" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_frameworks_media_libvideoeditor" path="frameworks/media/libvideoeditor" remote="github" revision="ics_chocolate-caf"/>
   <project name="aospX/platform_hardware_libhardware" path="hardware/libhardware" remote="github" revision="ics-devel"/>
@@ -215,7 +216,6 @@
   <project name="platform/external/wpa_supplicant_6" path="external/wpa_supplicant_6"/>
   <project name="platform/external/xmlwriter" path="external/xmlwriter"/>
   <project name="platform/external/yaffs2" path="external/yaffs2"/>
-  <project name="platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc"/>
   <project name="platform/frameworks/compile/linkloader" path="frameworks/compile/linkloader"/>
   <project name="platform/frameworks/opt/calendar" path="frameworks/opt/calendar"/>
   <project name="platform/frameworks/opt/emoji" path="frameworks/opt/emoji"/>
