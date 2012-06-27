@@ -121,6 +121,7 @@
   <project name="platform/bootable/recovery" path="bootable/recovery"/>
   <project name="platform/cts" path="cts"/>
   <project name="platform/docs/source.android.com" path="docs/source.android.com"/>
+  <project name="platform/external/aac" path="external/aac"/>
   <project name="platform/external/android-clat" path="external/android-clat"/>
   <project name="platform/external/android-mock" path="external/android-mock"/>
   <project name="platform/external/ant-glob" path="external/ant-glob"/>
@@ -153,6 +154,7 @@
   <project name="platform/external/fdlibm" path="external/fdlibm"/>
   <project name="platform/external/flac" path="external/flac"/>
   <project name="platform/external/fsck_msdos" path="external/fsck_msdos"/>
+  <project name="platform/external/gcc-demangle" path="external/gcc-demangle"/>
   <project name="platform/external/genext2fs" path="external/genext2fs"/>
   <project name="platform/external/giflib" path="external/giflib"/>
   <project name="platform/external/google-diff-match-patch" path="external/google-diff-match-patch"/>
