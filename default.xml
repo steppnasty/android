@@ -27,7 +27,6 @@
   <project name="CyanogenMod/android_external_wireless-tools" path="external/wireless-tools" remote="github" revision="ics"/>
   <project name="CyanogenMod/android_hardware_broadcom_wlan" path="hardware/broadcom/wlan" remote="github" revision="ics"/>
   <project name="CyanogenMod/android_hardware_ril" path="hardware/ril" remote="github" revision="ics"/>
-  <project name="CyanogenMod/android_packages_apps_FileManager" path="packages/apps/FileManager" remote="github" revision="gingerbread"/>
   <project name="CyanogenMod/android_system_netd" path="system/netd" remote="github" revision="ics"/>
   <project name="aospX/platform_bionic" path="bionic" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_build" path="build" remote="github" revision="ics-devel">
@@ -85,6 +84,7 @@
   <project name="aospX/platform_packages_apps_Camera" path="packages/apps/Camera" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_packages_apps_Contacts" path="packages/apps/Contacts" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_packages_apps_DeskClock" path="packages/apps/DeskClock" remote="github" revision="ics-devel"/>
+  <project name="aospX/platform_packages_apps_FileManager" path="packages/apps/FileManager" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_packages_apps_Launcher2" path="packages/apps/Launcher2" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_packages_apps_Mms" path="packages/apps/Mms" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_packages_apps_Music" path="packages/apps/Music" remote="github" revision="ics_chocolate-caf"/>
