@@ -44,7 +44,7 @@
   <project name="aospX/platform_external_bluetooth_bluez" path="external/bluetooth/bluez" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_bluetooth_glib" path="external/bluetooth/glib" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_busybox" path="external/busybox" remote="github" revision="ics-devel"/>
-  <project name="aospX/platform_external_chromium" path="external/chromium" remote="github" revision="ics_chocolate-caf"/>
+  <project name="aospX/platform_external_chromium" path="external/chromium" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_clang" path="external/clang" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_e2fsprogs" path="external/e2fsprogs" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_freetype" path="external/freetype" remote="github" revision="ics-devel"/>
@@ -52,20 +52,20 @@
   <project name="aospX/platform_external_icu4c" path="external/icu4c" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_libphonenumber" path="external/libphonenumber" remote="github" revision="ics_chocolate-caf"/>
   <project name="aospX/platform_external_libpng" path="external/libpng" remote="github" revision="ics_chocolate-caf"/>
-  <project name="aospX/platform_external_libxml2" path="external/libxml2" remote="github" revision="ics_chocolate-caf"/>
+  <project name="aospX/platform_external_libxml2" path="external/libxml2" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_llvm" path="external/llvm" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_lsof" path="external/lsof" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_node" path="external/node" remote="github" revision="ics_chocolate-caf"/>
   <project name="aospX/platform_external_openssl" path="external/openssl" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_openvpn" path="external/openvpn" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_oprofile" path="external/oprofile" remote="github" revision="ics-devel"/>
-  <project name="aospX/platform_external_skia" path="external/skia" remote="github" revision="ics_chocolate-caf"/>
+  <project name="aospX/platform_external_skia" path="external/skia" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_sqlite" path="external/sqlite" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_srec" path="external/srec" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_stlport" path="external/stlport" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_tremolo" path="external/tremolo" remote="github" revision="ics-devel"/>
-  <project name="aospX/platform_external_v8" path="external/v8" remote="github" revision="ics_chocolate-caf"/>
-  <project name="aospX/platform_external_webkit" path="external/webkit" remote="github" revision="ics_chocolate-caf"/>
+  <project name="aospX/platform_external_v8" path="external/v8" remote="github" revision="ics-devel"/>
+  <project name="aospX/platform_external_webkit" path="external/webkit" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_wpa_supplicant_8" path="external/wpa_supplicant_8" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_zlib" path="external/zlib" remote="github" revision="slhash"/>
   <project name="aospX/platform_frameworks_base" path="frameworks/base" remote="github" revision="ics-devel"/>
