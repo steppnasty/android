@@ -49,6 +49,7 @@
   <project name="aospX/platform_external_freetype" path="external/freetype" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_gtest" path="external/gtest" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_icu4c" path="external/icu4c" remote="github" revision="ics-devel"/>
+  <project name="aospX/platform_external_kissfft" path="external/kissfft" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_libphonenumber" path="external/libphonenumber" remote="github" revision="ics_chocolate-caf"/>
   <project name="aospX/platform_external_libpng" path="external/libpng" remote="github" revision="ics_chocolate-caf"/>
   <project name="aospX/platform_external_libxml2" path="external/libxml2" remote="github" revision="master-2.7.8"/>
