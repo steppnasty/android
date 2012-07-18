@@ -52,6 +52,7 @@
   <project name="aospX/platform_external_kissfft" path="external/kissfft" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_libphonenumber" path="external/libphonenumber" remote="github" revision="ics_chocolate-caf"/>
   <project name="aospX/platform_external_libpng" path="external/libpng" remote="github" revision="ics_chocolate-caf"/>
+  <project name="aospX/platform_external_libvpx" path="external/libvpx" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_libxml2" path="external/libxml2" remote="github" revision="master-2.7.8"/>
   <project name="aospX/platform_external_llvm" path="external/llvm" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_lsof" path="external/lsof" remote="github" revision="ics-devel"/>
@@ -180,7 +181,6 @@
   <project name="platform/external/libnl-headers" path="external/libnl-headers" revision="6ccf7349d61f73ac26a0675d735d903ab919c658"/>
   <project name="platform/external/libselinux" path="external/libselinux" revision="52cd377a74a710b2476c6a4c46da8b59a0dce50d"/>
   <project name="platform/external/libsepol" path="external/libsepol" revision="6617731185f5d7c899b376d1bfa2dea11eb494a0"/>
-  <project name="platform/external/libvpx" path="external/libvpx" revision="3a40da0d96da5c520e7707aa14f48a80956e20d7"/>
   <project name="platform/external/libxslt" path="external/libxslt" revision="d9120218522dc5da663e78996d0f042c0a62bc5e"/>
   <project name="platform/external/libyuv" path="external/libyuv" revision="351958316957352685f15674ee5bd71726dc993e"/>
   <project name="platform/external/lohit-fonts" path="external/lohit-fonts" revision="93831fc2533ad2048b6d787dbd1839112625b8ad"/>
