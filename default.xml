@@ -60,6 +60,7 @@
   <project name="aospX/platform_external_openvpn" path="external/openvpn" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_oprofile" path="external/oprofile" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_skia" path="external/skia" remote="github" revision="ics-devel"/>
+  <project name="aospX/platform_external_speex" path="external/speex" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_sqlite" path="external/sqlite" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_srec" path="external/srec" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_stlport" path="external/stlport" remote="github" revision="ics-devel"/>
@@ -206,7 +207,6 @@
   <project name="platform/external/replicaisland" path="external/replicaisland" revision="bf8b8c8eae8f7df938db8194854d48a57cc3102e"/>
   <project name="platform/external/safe-iop" path="external/safe-iop" revision="07073634e2e3aa4f518e36ed5dec3aabc549d5fb"/>
   <project name="platform/external/sepolicy" path="external/sepolicy" revision="f5f899c3c0f684ffba6950b343e652abd78d0fd9"/>
-  <project name="platform/external/speex" path="external/speex" revision="ebe6230a7f7c69f5a4389f2b09b7b19ef9e94f32"/>
   <project name="platform/external/srtp" path="external/srtp" revision="386ce4d9144fc190797f4e43a31aeaf76ca2e373"/>
   <project name="platform/external/svox" path="external/svox" revision="3c5c83b8cf83ebbdf1103656036f3931b3c69f25"/>
   <project name="platform/external/tagsoup" path="external/tagsoup" revision="68c2ec9e0acdb3214b7fb91dbab8c9fab8736817"/>
