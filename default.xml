@@ -60,6 +60,7 @@
   <project name="aospX/platform_external_openssl" path="external/openssl" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_openvpn" path="external/openvpn" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_oprofile" path="external/oprofile" remote="github" revision="ics-devel"/>
+  <project name="aospX/platform_external_qemu" path="external/qemu" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_skia" path="external/skia" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_speex" path="external/speex" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_sqlite" path="external/sqlite" remote="github" revision="ics-devel"/>
@@ -201,7 +202,6 @@
   <project name="platform/external/ppp" path="external/ppp" revision="e644c9d23cce70bf4e7db4a63325e5dc8ba87363"/>
   <project name="platform/external/proguard" path="external/proguard" revision="10aa7224f49abe49d123bde5d34346202d49aaca"/>
   <project name="platform/external/protobuf" path="external/protobuf" revision="e217977611c52bccde7f7c78e1d3c790c6357431"/>
-  <project name="platform/external/qemu" path="external/qemu" revision="a593847491224cfab9eb94b1e36c85333dc081da"/>
   <project name="platform/external/qemu-pc-bios" path="external/qemu-pc-bios" revision="20349dae98d7de09a7e390d4a706c64f1db6edc2"/>
   <project name="platform/external/quake" path="external/quake" revision="7a5374d597eac72560bb5a3f8209438896cfe8a7"/>
   <project name="platform/external/replicaisland" path="external/replicaisland" revision="bf8b8c8eae8f7df938db8194854d48a57cc3102e"/>
