@@ -77,7 +77,7 @@
   <project name="aospX/platform_hardware_msm7k" path="hardware/msm7k" remote="github" revision="2beafc6514373814b52faa9fc6d3fcb2eee37eac"/>
   <project name="aospX/platform_hardware_qcom_display" path="hardware/qcom/display" remote="github" revision="e2a652d3bf46c3968aea2b5ff742932d8cfab52d"/>
   <project name="aospX/platform_hardware_qcom_gps" path="hardware/qcom/gps" remote="github" revision="a71721b1199c1dd27ca210180d1df2809bb42340"/>
-  <project name="aospX/platform_hardware_qcom_media" path="hardware/qcom/media" remote="github" revision="8ff26ddd24edd0f79da6243c845c600e39486da0"/>
+  <project name="aospX/platform_hardware_qcom_media" path="hardware/qcom/media" remote="github" revision="7e91cbc17de775220a674c0d8065096e70339c22"/>
   <project name="aospX/platform_libcore" path="libcore" remote="github" revision="00df0de794def4de986d942f4eec6002d9916013"/>
   <project name="aospX/platform_packages_apps_Bluetooth" path="packages/apps/Bluetooth" remote="github" revision="45cfc4356085a91678b7fb3818b7eb1185f4df08"/>
   <project name="aospX/platform_packages_apps_Browser" path="packages/apps/Browser" remote="github" revision="b3d6f1d4c369e63119f4ad1d16092dcb0be503d7"/>
