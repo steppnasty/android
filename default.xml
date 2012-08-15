@@ -54,6 +54,7 @@
   <project name="aospX/platform_external_libpng" path="external/libpng" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_libvpx" path="external/libvpx" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_libxml2" path="external/libxml2" remote="github" revision="master-2.7.8"/>
+  <project name="aospX/platform_external_libyuv" path="external/libyuv" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_llvm" path="external/llvm" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_lsof" path="external/lsof" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_node" path="external/node" remote="github" revision="ics-devel"/>
@@ -69,6 +70,7 @@
   <project name="aospX/platform_external_tremolo" path="external/tremolo" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_v8" path="external/v8" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_webkit" path="external/webkit" remote="github" revision="ics-devel"/>
+  <project name="aospX/platform_external_webrtc" path="external/webrtc" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_wpa_supplicant_8" path="external/wpa_supplicant_8" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_zlib" path="external/zlib" remote="github" revision="slhash"/>
   <project name="aospX/platform_frameworks_base" path="frameworks/base" remote="github" revision="ics-devel"/>
@@ -181,7 +183,6 @@
   <project name="platform/external/libselinux" path="external/libselinux"/>
   <project name="platform/external/libsepol" path="external/libsepol"/>
   <project name="platform/external/libxslt" path="external/libxslt"/>
-  <project name="platform/external/libyuv" path="external/libyuv"/>
   <project name="platform/external/lohit-fonts" path="external/lohit-fonts"/>
   <project name="platform/external/markdown" path="external/markdown"/>
   <project name="platform/external/mesa3d" path="external/mesa3d"/>
@@ -212,7 +213,6 @@
   <project name="platform/external/tinyxml" path="external/tinyxml"/>
   <project name="platform/external/valgrind" path="external/valgrind"/>
   <project name="platform/external/webp" path="external/webp"/>
-  <project name="platform/external/webrtc" path="external/webrtc"/>
   <project name="platform/external/wpa_supplicant" path="external/wpa_supplicant"/>
   <project name="platform/external/wpa_supplicant_6" path="external/wpa_supplicant_6"/>
   <project name="platform/external/xmlwriter" path="external/xmlwriter"/>
