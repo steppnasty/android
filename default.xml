@@ -9,7 +9,6 @@
   <default remote="aosp" revision="ics-plus-aosp" sync-j="4"/>
   
   <project name="CyanogenMod/android_external_bash" path="external/bash" remote="github" revision="ics"/>
-  <project name="CyanogenMod/android_external_dnsmasq" path="external/dnsmasq" remote="github" revision="ics"/>
   <project name="CyanogenMod/android_external_embunit" path="external/embunit" remote="github" revision="ics"/>
   <project name="CyanogenMod/android_external_iproute2" path="external/iproute2" remote="github" revision="ics"/>
   <project name="CyanogenMod/android_external_iptables" path="external/iptables" remote="github" revision="ics"/>
@@ -44,6 +43,7 @@
   <project name="aospX/platform_external_busybox" path="external/busybox" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_chromium" path="external/chromium" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_clang" path="external/clang" remote="github" revision="ics-devel"/>
+  <project name="aospX/platform_external_dnsmasq" path="external/dnsmasq" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_e2fsprogs" path="external/e2fsprogs" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_freetype" path="external/freetype" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_gtest" path="external/gtest" remote="github" revision="ics-devel"/>
