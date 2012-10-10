@@ -88,6 +88,7 @@
   <project name="aospX/platform_libcore" path="libcore" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_packages_apps_Bluetooth" path="packages/apps/Bluetooth" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_packages_apps_Browser" path="packages/apps/Browser" remote="github" revision="ics-devel"/>
+  <project name="aospX/platform_packages_apps_Calculator" path="packages/apps/Calculator" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_packages_apps_Camera" path="packages/apps/Camera" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_packages_apps_Contacts" path="packages/apps/Contacts" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_packages_apps_DeskClock" path="packages/apps/DeskClock" remote="github" revision="ics-devel"/>
@@ -228,7 +229,6 @@
   <project name="platform/ndk" path="ndk"/>
   <project name="platform/packages/apps/0xbench" path="packages/apps/0xbench" remote="linaro-android" revision="linaro-master"/>
   <project name="platform/packages/apps/BasicSmsReceiver" path="packages/apps/BasicSmsReceiver"/>
-  <project name="platform/packages/apps/Calculator" path="packages/apps/Calculator"/>
   <project name="platform/packages/apps/Calendar" path="packages/apps/Calendar"/>
   <project name="platform/packages/apps/CellBroadcastReceiver" path="packages/apps/CellBroadcastReceiver"/>
   <project name="platform/packages/apps/CertInstaller" path="packages/apps/CertInstaller"/>
