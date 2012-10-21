@@ -5,11 +5,7 @@ To get started with Android, you'll need to get familiar with [Git and Repo] (ht
 
 To initialize your local repository using the aospX trees, use a command like this:
 
-    repo init -u git://github.com/aospX/android.git -b ics-devel
-
-To build a snapshot release, use a command like this:
-
-    repo init -u git://github.com/aospX/android.git -b ics-devel -m MSM7230BR20603.xml
+    repo init -u git://github.com/SyNtheticNightmar3/android.git -b ics-devel
 
 Then to sync up:
 
@@ -18,5 +14,5 @@ Then to sync up:
 To build:
 
     . build/envsetup.sh
-    lunch aospx_ace-userdebug
+    lunch aospx_glacier-userdebug
     make -j4 aospx
