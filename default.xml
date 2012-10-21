@@ -280,16 +280,16 @@
   <project name="platform/vendor/qcom-opensource/webkit" path="vendor/qcom/opensource/webkit" remote="caf" revision="ics_chocolate"/>
 
   <!-- SyNthetic aospX specific parts !-->
-  <project name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" path="vendor/tmobile/apps/ThemeChooser" />
-  <project name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" path="vendor/tmobile/libs/com.tmobile.themes" />
-  <project name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" path="vendor/tmobile/providers/ThemeManager" />
-  <project name="CyanogenMod/android_vendor_tmobile_products_themes" path="vendor/tmobile/products/themes" />
+  <project name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" path="vendor/tmobile/apps/ThemeChooser" remote="github" revision="ics" />
+  <project name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" path="vendor/tmobile/libs/com.tmobile.themes" remote="github" revision="ics" />
+  <project name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" path="vendor/tmobile/providers/ThemeManager" remote="github" revision="ics" />
+  <project name="CyanogenMod/android_vendor_tmobile_products_themes" path="vendor/tmobile/products/themes" remote="github" revision="ics" />
   <project name="SyNtheticNightmar3/htc-kernel-msm7x30" path="kernel/msm7x30" remote="github" revision="android-msm-2.6.35-ics"/>
-  <project name="SyNtheticNightmar3/platform_device_htc_glacier" path="device/htc/glacier" remote="github" revision="ics-devel"/>
+  <project name="SyNtheticNightmar3/platform_device_htc_glacier" path="device/htc/glacier" remote="github" revision="ics-dev"/>
   <project name="SyNtheticNightmar3/platform_frameworks_base" path="frameworks/base" remote="github" revision="ics-devel"/>
   <project name="SyNtheticNightmar3/platform_packages_apps_Browser" path="packages/apps/Browser" remote="github" revision="ics-devel"/>
   <project name="SyNtheticNightmar3/platform_packages_apps_Settings" path="packages/apps/Settings" remote="github" revision="ics-devel"/>
   <project name="SyNtheticNightmar3/platform_vendor_aospx" path="vendor/aospx" remote="github" revision="ics-devel"/>
   <project name="SyNtheticNightmar3/platform_vendor_google" path="vendor/google" remote="github" revision="ics-devel"/>
-  <project name="SyNtheticNightmar3/platform_vendor_htc_glacier" path="vendor/htc/glacier" remote="github" revision="ics-devel"/>
+  <project name="SyNtheticNightmar3/platform_vendor_htc_glacier" path="vendor/htc/glacier" remote="github" revision="ics-dev"/>
 </manifest>
