@@ -292,4 +292,5 @@
   <project name="SyNtheticNightmar3/platform_vendor_aospx" path="vendor/aospx" remote="github" revision="ics-devel"/>
   <project name="SyNtheticNightmar3/platform_vendor_google" path="vendor/google" remote="github" revision="ics-devel"/>
   <project name="SyNtheticNightmar3/platform_vendor_htc_glacier" path="vendor/htc/glacier" remote="github" revision="ics-dev"/>
+  <project name="SyNtheticNightmar3/themes-platform-vendor-tmobile-apps-ThemeChooser" path="vendor/tmobile/apps/ThemeChooser" remote="github" revision="ics" />
 </manifest>
