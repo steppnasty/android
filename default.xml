@@ -6,7 +6,7 @@
   <remote fetch="git://git.linaro.org/" name="linaro"/>
   <remote fetch="git://android.git.linaro.org/" name="linaro-android"/>
   
-  <default remote="aosp" revision="ics-plus-aosp" sync-j="4"/>
+  <default remote="aosp" revision="ics-plus-aosp" sync-j="4" sync-c="true"/>
   
   <project name="CyanogenMod/android_external_bash" path="external/bash" remote="github" revision="ics"/>
   <project name="CyanogenMod/android_external_embunit" path="external/embunit" remote="github" revision="ics"/>
