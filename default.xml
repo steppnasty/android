@@ -96,6 +96,7 @@
   <project name="aospX/platform_packages_apps_Phone" path="packages/apps/Phone" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_packages_apps_SoundRecorder" path="packages/apps/SoundRecorder" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_packages_apps_Superuser" path="packages/apps/Superuser" remote="github" revision="ics"/>
+  <project name="aospX/platform_packages_inputmethods_LatinIME" path="packages/inputmethods/LatinIME" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_packages_providers_ContactsProvider" path="packages/providers/ContactsProvider" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_packages_providers_DownloadProvider" path="packages/providers/DownloadProvider" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_packages_providers_MediaProvider" path="packages/providers/MediaProvider" remote="github" revision="ics-devel"/>
@@ -243,7 +244,6 @@
   <project name="platform/packages/apps/VideoEditor" path="packages/apps/VideoEditor"/>
   <project name="platform/packages/apps/VoiceDialer" path="packages/apps/VoiceDialer"/>
   <project name="platform/packages/experimental" path="packages/experimental"/>
-  <project name="platform/packages/inputmethods/LatinIME" path="packages/inputmethods/LatinIME"/>
   <project name="platform/packages/inputmethods/OpenWnn" path="packages/inputmethods/OpenWnn"/>
   <project name="platform/packages/inputmethods/PinyinIME" path="packages/inputmethods/PinyinIME"/>
   <project name="platform/packages/providers/ApplicationsProvider" path="packages/providers/ApplicationsProvider"/>
