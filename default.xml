@@ -27,7 +27,7 @@
   <project name="CyanogenMod/android_hardware_ril" path="hardware/ril" remote="github" revision="ics"/>
   <project name="CyanogenMod/android_system_netd" path="system/netd" remote="github" revision="ics"/>
   <project name="aospX/platform_bionic" path="bionic" remote="github" revision="ics-devel"/>
-  <project name="aospX/platform_build" path="build" remote="github" revision="ics-devel">
+  <project name="steppnasty/platform_build" path="build" remote="github" revision="ics-devel">
     <copyfile dest="Makefile" src="core/root.mk"/>
     <copyfile dest="hardware/qcom/Android.mk" src="target/platform/qcom.mk"/>
     <copyfile dest="vendor/qcom/Android.mk" src="target/platform/qcom.mk"/>
