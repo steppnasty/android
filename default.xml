@@ -92,7 +92,7 @@
   <project name="aospX/platform_packages_apps_Launcher2" path="packages/apps/Launcher2" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_packages_apps_Mms" path="packages/apps/Mms" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_packages_apps_Music" path="packages/apps/Music" remote="github" revision="ics-devel"/>
-  <project name="aospX/platform_packages_apps_Phone" path="packages/apps/Phone" remote="github" revision="ics-devel"/>
+  <project name="steppnasty/platform_packages_apps_Phone" path="packages/apps/Phone" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_packages_apps_SoundRecorder" path="packages/apps/SoundRecorder" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_packages_apps_Superuser" path="packages/apps/Superuser" remote="github" revision="ics"/>
   <project name="aospX/platform_packages_inputmethods_LatinIME" path="packages/inputmethods/LatinIME" remote="github" revision="ics-devel"/>
