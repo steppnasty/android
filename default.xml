@@ -288,7 +288,7 @@
   <project name="SyNtheticNightmar3/platform_packages_apps_Browser" path="packages/apps/Browser" remote="github" revision="ics-devel"/>
   <project name="SyNtheticNightmar3/platform_packages_apps_DeskClock" path="packages/apps/DeskClock" remote="github" revision="ics-devel"/>
   <project name="steppnasty/platform_packages_apps_Settings" path="packages/apps/Settings" remote="github" revision="ics-devel"/>
-  <project name="SyNtheticNightmar3/platform_vendor_aospx" path="vendor/aospx" remote="github" revision="ics-devel"/>
+  <project name="steppnasty/platform_vendor_aospx" path="vendor/aospx" remote="github" revision="ics-devel"/>
   <project name="SyNtheticNightmar3/platform_vendor_google" path="vendor/google" remote="github" revision="ics-devel"/>
   <project name="SyNtheticNightmar3/platform_vendor_htc_glacier" path="vendor/htc/glacier" remote="github" revision="ics-dev"/>
   <project name="SyNtheticNightmar3/themes-platform-vendor-tmobile-apps-ThemeChooser" path="vendor/tmobile/apps/ThemeChooser" remote="github" revision="ics" />
