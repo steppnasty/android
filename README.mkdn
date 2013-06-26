@@ -5,7 +5,7 @@ To get started with Android, you'll need to get familiar with [Git and Repo] (ht
 
 To initialize your local repository using the aospX trees, use a command like this:
 
-    repo init -u git://github.com/steppnasty/android.git -b ics-devel
+    repo init -u git://github.com/steppnasty/android.git -b jb-dev
 
 Then to sync up:
 
