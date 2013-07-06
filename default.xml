@@ -292,7 +292,7 @@
   <project name="steppnasty/platform_external_webkit" path="external/webkit" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_frameworks_base" path="frameworks/base" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_libcore" path="libcore" remote="github" revision="jb-dev"/>
-  <project name="steppnasty/platform_packages_apps_Settings" path="packages/apps/Settings" remote="github" revision="ics_devel"/>
+  <project name="steppnasty/platform_packages_apps_Settings" path="packages/apps/Settings" remote="github" revision="ics-devel"/>
   <project name="steppnasty/platform_packages_providers_ApplicationsProvider" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_vendor_aospx" path="vendor/aospx" remote="github" revision="ics-devel"/>
 </manifest>
