@@ -86,7 +86,6 @@
   <project name="aospX/platform_packages_apps_CellBroadcastReceiver" path="packages/apps/CellBroadcastReceiver" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_packages_apps_Contacts" path="packages/apps/Contacts" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_packages_apps_FileManager" path="packages/apps/FileManager" remote="github" revision="ics-devel"/>
-  <project name="aospX/platform_packages_apps_Launcher2" path="packages/apps/Launcher2" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_packages_apps_Mms" path="packages/apps/Mms" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_packages_apps_Music" path="packages/apps/Music" remote="github" revision="ics-devel"/>
   <project name="steppnasty/platform_packages_apps_Phone" path="packages/apps/Phone" remote="github" revision="ics-devel"/>
@@ -291,6 +290,7 @@
   <project name="steppnasty/platform_libcore" path="libcore" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_apps_Bluetooth" path="packages/apps/Bluetooth" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_apps_Browser" path="packages/apps/Browser" remote="github" revision="jb-dev"/>
+  <project name="steppnasty/platform_packages_apps_Launcher2" path="packages/apps/Launcher2" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_apps_Settings" path="packages/apps/Settings" remote="github" revision="ics-devel"/>
   <project name="steppnasty/platform_packages_providers_ApplicationsProvider" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_system_media" path="system/media" remote="github" revision="ics-devel"/>
