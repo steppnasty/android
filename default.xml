@@ -56,7 +56,6 @@
   <project name="aospX/platform_external_llvm" path="external/llvm" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_lsof" path="external/lsof" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_node" path="external/node" remote="github" revision="ics-devel"/>
-  <project name="aospX/platform_external_openssl" path="external/openssl" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_openvpn" path="external/openvpn" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_oprofile" path="external/oprofile" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_qemu" path="external/qemu" remote="github" revision="ics-devel"/>
@@ -185,6 +184,7 @@
   <project name="platform/external/node-sqlite-sync" path="external/node-sqlite-sync" remote="caf" revision="ics_chocolate"/>
   <project name="platform/external/oauth" path="external/oauth"/>
   <project name="platform/external/opencv" path="external/opencv"/>
+  <project name="platform/external/openssl" path="external/openssl" remote="aosp" revision="master"
   <project name="platform/external/pcre" path="external/pcre"/>
   <project name="platform/external/ppp" path="external/ppp"/>
   <project name="platform/external/proguard" path="external/proguard"/>
