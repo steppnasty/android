@@ -291,8 +291,8 @@
   <project name="steppnasty/platform_packages_apps_Browser" path="packages/apps/Browser" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_apps_Launcher2" path="packages/apps/Launcher2" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_apps_Settings" path="packages/apps/Settings" remote="github" revision="ics-devel"/>
-  <project name="steppnasty/platform_packages_providers_ApplicationsProvider" remote="github" revision="jb-dev"/>
-  <project name="steppnasty/platform_packages_providers_ContactsProvider" remote="github" revision="jb-dev"/>
+  <project name="steppnasty/platform_packages_providers_ApplicationsProvider" path="packages/providers/ApplicationsProvider" remote="github" revision="jb-dev"/>
+  <project name="steppnasty/platform_packages_providers_ContactsProvider" path="packages/providers/ContactsProvider" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_system_media" path="system/media" remote="github" revision="ics-devel"/>
   <project name="steppnasty/platform_vendor_aospx" path="vendor/aospx" remote="github" revision="ics-devel"/>
 </manifest>
