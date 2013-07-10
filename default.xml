@@ -79,7 +79,6 @@
   <project name="aospX/platform_hardware_msm7k" path="hardware/msm7k" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_hardware_qcom_display" path="hardware/qcom/display" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_hardware_qcom_gps" path="hardware/qcom/gps" remote="github" revision="ics-devel"/>
-  <project name="steppnasty/platform_hardware_qcom_media" path="hardware/qcom/media" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_packages_apps_Calculator" path="packages/apps/Calculator" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_packages_apps_Camera" path="packages/apps/Camera" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_packages_apps_CellBroadcastReceiver" path="packages/apps/CellBroadcastReceiver" remote="github" revision="ics-devel"/>
@@ -287,6 +286,7 @@
   <project name="steppnasty/platform_device_htc_glacier" path="device/htc/glacier" remote="github" revision="ics-dev"/>
   <project name="steppnasty/platform_external_webkit" path="external/webkit" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_frameworks_base" path="frameworks/base" remote="github" revision="jb-dev"/>
+  <project name="steppnasty/platform_hardware_qcom_media" path="hardware/qcom/media" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_libcore" path="libcore" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_apps_Bluetooth" path="packages/apps/Bluetooth" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_apps_Browser" path="packages/apps/Browser" remote="github" revision="jb-dev"/>
