@@ -101,7 +101,7 @@
   <project name="aospX/platform_system_su" path="system/su" remote="github" revision="ics"/>
   <project name="aospX/platform_system_vold" path="system/vold" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_vendor_qcom_opensource_omx_mm-core" path="hardware/qcom/media/mm-core" remote="github" revision="ics-devel"/>
-  <project name="aospX/platform_vendor_qcom_opensource_omx_mm-video" path="vendor/qcom/opensource/omx/mm-video" remote="github" revision="ics-devel"/>
+  <project name="aospX/platform_vendor_qcom_opensource_omx_mm-video" path="hardware/qcom/media/mm-video" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_vendor_qcom_proprietary" path="vendor/qcom/proprietary" remote="github" revision="ics-devel"/>
   <project name="device/common" path="device/common"/>
   <project name="device/generic/goldfish" path="device/generic/goldfish"/>
