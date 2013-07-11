@@ -232,7 +232,7 @@
   <project name="platform/packages/experimental" path="packages/experimental"/>
   <project name="platform/packages/inputmethods/OpenWnn" path="packages/inputmethods/OpenWnn"/>
   <project name="platform/packages/inputmethods/PinyinIME" path="packages/inputmethods/PinyinIME"/>
-  <project name="platform/packages/providers/CalendarProvider" path="packages/providers/CalendarProvider"/>
+  <project name="platform/packages/providers/CalendarProvider" path="packages/providers/CalendarProvider" remote="aosp" revision="jb-mr1.1-release"/>
   <project name="platform/packages/providers/DrmProvider" path="packages/providers/DrmProvider"/>
   <project name="platform/packages/providers/GoogleContactsProvider" path="packages/providers/GoogleContactsProvider"/>
   <project name="platform/packages/providers/TelephonyProvider" path="packages/providers/TelephonyProvider"/>
