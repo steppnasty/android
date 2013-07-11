@@ -206,7 +206,6 @@
   <project name="platform/frameworks/opt/inputmethodcommon" path="frameworks/opt/inputmethodcommon"/>
   <project name="platform/frameworks/opt/mailcommon" path="frameworks/opt/mailcommon"/>
   <project name="platform/frameworks/opt/vcard" path="frameworks/opt/vcard"/>
-  <project name="platform/frameworks/support" path="frameworks/support"/>
   <project name="platform/hardware/invensense" path="hardware/invensense"/>
   <project name="platform/ndk" path="ndk"/>
   <project name="platform/packages/apps/0xbench" path="packages/apps/0xbench" remote="linaro-android" revision="linaro-master"/>
@@ -283,6 +282,7 @@
   <project name="steppnasty/platform_frameworks_base" path="frameworks/base" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_frameworks_ex" path="frameworks/ex" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_frameworks_opt_calendar" path="frameworks/opt/calendar" remote="github" revision="jb-dev"/>
+  <project name="steppnasty/platform_frameworks_support" path="frameworks/support" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_hardware_qcom_media" path="hardware/qcom/media" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_libcore" path="libcore" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_apps_Bluetooth" path="packages/apps/Bluetooth" remote="github" revision="jb-dev"/>
