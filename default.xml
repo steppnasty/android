@@ -90,7 +90,6 @@
   <project name="aospX/platform_packages_apps_Superuser" path="packages/apps/Superuser" remote="github" revision="ics"/>
   <project name="aospX/platform_packages_inputmethods_LatinIME" path="packages/inputmethods/LatinIME" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_packages_providers_DownloadProvider" path="packages/providers/DownloadProvider" remote="github" revision="ics-devel"/>
-  <project name="aospX/platform_packages_providers_MediaProvider" path="packages/providers/MediaProvider" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_system_bluetooth" path="system/bluetooth" remote="github" revision="ics-devel"/>
   <project name="steppnasty/platform_system_core" path="system/core" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_system_extras" path="system/extras" remote="github" revision="ics-devel"/>
@@ -291,6 +290,7 @@
   <project name="steppnasty/platform_packages_apps_Settings" path="packages/apps/Settings" remote="github" revision="ics-devel"/>
   <project name="steppnasty/platform_packages_providers_ApplicationsProvider" path="packages/providers/ApplicationsProvider" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_providers_ContactsProvider" path="packages/providers/ContactsProvider" remote="github" revision="jb-dev"/>
+  <project name="steppnasty/platform_packages_providers_MediaProvider" path="packages/providers/MediaProvider" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_wallpapers_LivePicker" path="packages/wallpapers/LivePicker" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_prebuilt" path="prebuilt" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_system_media" path="system/media" remote="github" revision="ics-devel"/>
