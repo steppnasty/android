@@ -240,7 +240,6 @@
   <project name="platform/packages/wallpapers/Basic" path="packages/wallpapers/Basic"/>
   <project name="platform/packages/wallpapers/Galaxy4" path="packages/wallpapers/Galaxy4"/>
   <project name="platform/packages/wallpapers/HoloSpiral" path="packages/wallpapers/HoloSpiral"/>
-  <project name="platform/packages/wallpapers/LivePicker" path="packages/wallpapers/LivePicker"/>
   <project name="platform/packages/wallpapers/MagicSmoke" path="packages/wallpapers/MagicSmoke"/>
   <project name="platform/packages/wallpapers/MusicVisualization" path="packages/wallpapers/MusicVisualization"/>
   <project name="platform/packages/wallpapers/NoiseField" path="packages/wallpapers/NoiseField"/>
@@ -292,6 +291,7 @@
   <project name="steppnasty/platform_packages_apps_Settings" path="packages/apps/Settings" remote="github" revision="ics-devel"/>
   <project name="steppnasty/platform_packages_providers_ApplicationsProvider" path="packages/providers/ApplicationsProvider" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_providers_ContactsProvider" path="packages/providers/ContactsProvider" remote="github" revision="jb-dev"/>
+  <project name="steppnasty/platform_packages_wallpapers_LivePicker" path="packages/wallpapers/LivePicker" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_prebuilt" path="prebuilt" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_system_media" path="system/media" remote="github" revision="ics-devel"/>
   <project name="steppnasty/platform_vendor_aospx" path="vendor/aospx" remote="github" revision="ics-devel"/>
