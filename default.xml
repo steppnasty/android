@@ -192,7 +192,6 @@
   <project name="platform/external/tinyalsa" path="external/tinyalsa"/>
   <project name="platform/external/tinyxml" path="external/tinyxml"/>
   <project name="platform/external/valgrind" path="external/valgrind"/>
-  <project name="platform/external/webp" path="external/webp"/>
   <project name="platform/external/wpa_supplicant" path="external/wpa_supplicant"/>
   <project name="platform/external/wpa_supplicant_6" path="external/wpa_supplicant_6"/>
   <project name="platform/external/xmlwriter" path="external/xmlwriter"/>
@@ -275,6 +274,7 @@
   <project name="steppnasty/platform_external_skia" path="external/skia" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_external_sqlite" path="external/sqlite" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_external_webkit" path="external/webkit" remote="github" revision="jb-dev"/>
+  <project name="steppnasty/platform_external_webp" path="external/webp" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_frameworks_base" path="frameworks/base" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_frameworks_ex" path="frameworks/ex" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_frameworks_opt_calendar" path="frameworks/opt/calendar" remote="github" revision="jb-dev"/>
