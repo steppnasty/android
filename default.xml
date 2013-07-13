@@ -287,7 +287,7 @@
   <project name="steppnasty/platform_packages_apps_Launcher2" path="packages/apps/Launcher2" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_apps_MusicFX" path="packages/apps/MusicFX" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_apps_Phone" path="packages/apps/Phone" remote="github" revision="jb-dev"/>
-  <project name="steppnasty/platform_packages_apps_Settings" path="packages/apps/Settings" remote="github" revision="ics-devel"/>
+  <project name="steppnasty/platform_packages_apps_Settings" path="packages/apps/Settings" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_providers_ApplicationsProvider" path="packages/providers/ApplicationsProvider" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_providers_ContactsProvider" path="packages/providers/ContactsProvider" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_providers_MediaProvider" path="packages/providers/MediaProvider" remote="github" revision="jb-dev"/>
