@@ -62,7 +62,6 @@
   <project name="aospX/platform_external_skia" path="external/skia" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_sonivox" path="external/sonivox" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_speex" path="external/speex" remote="github" revision="ics-devel"/>
-  <project name="aospX/platform_external_sqlite" path="external/sqlite" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_srec" path="external/srec" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_stlport" path="external/stlport" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_tremolo" path="external/tremolo" remote="github" revision="ics-devel"/>
@@ -274,6 +273,7 @@
   
   <!-- stepp_aospX specific parts !-->
   <project name="steppnasty/platform_device_htc_glacier" path="device/htc/glacier" remote="github" revision="ics-dev"/>
+  <project name="steppnasty/platform_external_sqlite" path="external/sqlite" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_external_webkit" path="external/webkit" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_frameworks_base" path="frameworks/base" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_frameworks_ex" path="frameworks/ex" remote="github" revision="jb-dev"/>
