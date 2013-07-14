@@ -71,7 +71,6 @@
   <project name="aospX/platform_frameworks_media_libvideoeditor" path="frameworks/media/libvideoeditor" remote="github" revision="ics-devel"/>
   <project name="steppnasty/platform_hardware_libhardware_legacy" path="hardware/libhardware_legacy" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_hardware_msm7k" path="hardware/msm7k" remote="github" revision="ics-devel"/>
-  <project name="aospX/platform_hardware_qcom_display" path="hardware/qcom/display" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_hardware_qcom_gps" path="hardware/qcom/gps" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_packages_apps_Calculator" path="packages/apps/Calculator" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_packages_apps_Camera" path="packages/apps/Camera" remote="github" revision="ics-devel"/>
@@ -277,6 +276,7 @@
   <project name="steppnasty/platform_frameworks_ex" path="frameworks/ex" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_frameworks_opt_calendar" path="frameworks/opt/calendar" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_frameworks_support" path="frameworks/support" remote="github" revision="jb-dev"/>
+  <project name="steppnasty/platform_hardware_qcom_display" path="hardware/qcom/display" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_hardware_qcom_media" path="hardware/qcom/media" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_hardware_libhardware" path="hardware/libhardware" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_libcore" path="libcore" remote="github" revision="jb-dev"/>
