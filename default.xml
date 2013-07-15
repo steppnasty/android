@@ -85,7 +85,6 @@
   <project name="aospX/platform_packages_providers_DownloadProvider" path="packages/providers/DownloadProvider" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_system_bluetooth" path="system/bluetooth" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_system_extras" path="system/extras" remote="github" revision="ics-devel"/>
-  <project name="aospX/platform_system_vold" path="system/vold" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_vendor_qcom_opensource_omx_mm-core" path="hardware/qcom/media/mm-core" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_vendor_qcom_opensource_omx_mm-video" path="hardware/qcom/media/mm-video" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_vendor_qcom_proprietary" path="vendor/qcom/proprietary" remote="github" revision="ics-devel"/>
@@ -294,5 +293,6 @@
   <project name="steppnasty/platform_system_core" path="system/core" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_system_media" path="system/media" remote="github" revision="ics-devel"/>
   <project name="steppnasty/platform_system_su" path="system/su" remote="github" revision="jb-dev"/>
+  <project name="steppnasty/platform_system_vold" path="system/vold" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_vendor_aospx" path="vendor/aospx" remote="github" revision="ics-devel"/>
 </manifest>
