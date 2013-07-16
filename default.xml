@@ -76,7 +76,6 @@
   <project name="aospX/platform_packages_apps_CellBroadcastReceiver" path="packages/apps/CellBroadcastReceiver" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_packages_apps_Contacts" path="packages/apps/Contacts" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_packages_apps_FileManager" path="packages/apps/FileManager" remote="github" revision="ics-devel"/>
-  <project name="aospX/platform_packages_apps_Mms" path="packages/apps/Mms" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_packages_apps_Music" path="packages/apps/Music" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_packages_apps_SoundRecorder" path="packages/apps/SoundRecorder" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_packages_apps_Superuser" path="packages/apps/Superuser" remote="github" revision="ics"/>
@@ -276,6 +275,7 @@
   <project name="steppnasty/platform_packages_apps_Browser" path="packages/apps/Browser" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_apps_Calendar" path="packages/apps/Calendar" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_apps_Launcher2" path="packages/apps/Launcher2" remote="github" revision="jb-dev"/>
+  <project name="steppnasty/platform_packages_apps_Mms" path="packages/apps/Mms" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_apps_MusicFX" path="packages/apps/MusicFX" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_apps_Phone" path="packages/apps/Phone" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_apps_Settings" path="packages/apps/Settings" remote="github" revision="jb-dev"/>
