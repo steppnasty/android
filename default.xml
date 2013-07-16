@@ -80,7 +80,6 @@
   <project name="aospX/platform_packages_apps_Music" path="packages/apps/Music" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_packages_apps_SoundRecorder" path="packages/apps/SoundRecorder" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_packages_apps_Superuser" path="packages/apps/Superuser" remote="github" revision="ics"/>
-  <project name="aospX/platform_packages_inputmethods_LatinIME" path="packages/inputmethods/LatinIME" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_packages_providers_DownloadProvider" path="packages/providers/DownloadProvider" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_system_bluetooth" path="system/bluetooth" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_system_extras" path="system/extras" remote="github" revision="ics-devel"/>
@@ -284,6 +283,7 @@
   <project name="steppnasty/platform_packages_apps_MusicFX" path="packages/apps/MusicFX" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_apps_Phone" path="packages/apps/Phone" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_apps_Settings" path="packages/apps/Settings" remote="github" revision="jb-dev"/>
+  <project name="steppnasty/platform_packages_inputmethods_LatinIME" path="packages/inputmethods/LatinIME" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_providers_ApplicationsProvider" path="packages/providers/ApplicationsProvider" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_providers_ContactsProvider" path="packages/providers/ContactsProvider" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_providers_MediaProvider" path="packages/providers/MediaProvider" remote="github" revision="jb-dev"/>
