@@ -220,7 +220,6 @@
   <project name="platform/packages/providers/DrmProvider" path="packages/providers/DrmProvider"/>
   <project name="platform/packages/providers/GoogleContactsProvider" path="packages/providers/GoogleContactsProvider"/>
   <project name="platform/packages/providers/TelephonyProvider" path="packages/providers/TelephonyProvider"/>
-  <project name="platform/packages/providers/UserDictionaryProvider" path="packages/providers/UserDictionaryProvider"/>
   <project name="platform/packages/wallpapers/Basic" path="packages/wallpapers/Basic"/>
   <project name="platform/packages/wallpapers/Galaxy4" path="packages/wallpapers/Galaxy4"/>
   <project name="platform/packages/wallpapers/HoloSpiral" path="packages/wallpapers/HoloSpiral"/>
@@ -287,6 +286,7 @@
   <project name="steppnasty/platform_packages_providers_ApplicationsProvider" path="packages/providers/ApplicationsProvider" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_providers_ContactsProvider" path="packages/providers/ContactsProvider" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_providers_MediaProvider" path="packages/providers/MediaProvider" remote="github" revision="jb-dev"/>
+  <project name="steppnasty/platform_packages_providers_UserDictionaryProvider" path="packages/providers/UserDictionaryProvider" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_wallpapers_LivePicker" path="packages/wallpapers/LivePicker" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_prebuilt" path="prebuilt" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_system_core" path="system/core" remote="github" revision="jb-dev"/>
