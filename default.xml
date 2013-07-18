@@ -155,6 +155,7 @@
   <project name="platform/external/markdown" path="external/markdown"/>
   <project name="platform/external/mesa3d" path="external/mesa3d"/>
   <project name="platform/external/mksh" path="external/mksh"/>
+  <project name="platform/external/mdnsresponder" path="external/mdnsresponder" remote="aosp" revision="jb-mr1.1-release"/>
   <project name="platform/external/mockwebserver" path="external/mockwebserver"/>
   <project name="platform/external/mtpd" path="external/mtpd"/>
   <project name="platform/external/netcat" path="external/netcat"/>
