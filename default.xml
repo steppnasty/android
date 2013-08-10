@@ -197,7 +197,6 @@
   <project name="platform/packages/apps/Email" path="packages/apps/Email"/>
   <project name="platform/packages/apps/Exchange" path="packages/apps/Exchange"/>
   <project name="platform/packages/apps/Gallery" path="packages/apps/Gallery"/>
-  <project name="platform/packages/apps/Gallery2" path="packages/apps/Gallery2"/>
   <project name="platform/packages/apps/HTMLViewer" path="packages/apps/HTMLViewer"/>
   <project name="platform/packages/apps/KeyChain" path="packages/apps/KeyChain"/>
   <project name="platform/packages/apps/PackageInstaller" path="packages/apps/PackageInstaller"/>
@@ -275,7 +274,8 @@
   <project name="steppnasty/platform_packages_apps_Bluetooth" path="packages/apps/Bluetooth" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_apps_Browser" path="packages/apps/Browser" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_apps_Calendar" path="packages/apps/Calendar" remote="github" revision="jb-dev"/>
-  <project name="steppnasty/platform_packages_apps_Camera" path="packages/apps/Camera" remote="aosp" revision="jb-dev"/>
+  <project name="steppnasty/platform_packages_apps_Camera" path="packages/apps/Camera" remote="github" revision="jb-dev"/>
+  <project name="steppnasty/platform_packages_apps_Gallery2" path"packages/apps/Gallery2" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_apps_Launcher2" path="packages/apps/Launcher2" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_apps_Mms" path="packages/apps/Mms" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_apps_MusicFX" path="packages/apps/MusicFX" remote="github" revision="jb-dev"/>
