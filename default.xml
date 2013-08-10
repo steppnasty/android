@@ -72,7 +72,6 @@
   <project name="aospX/platform_hardware_msm7k" path="hardware/msm7k" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_hardware_qcom_gps" path="hardware/qcom/gps" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_packages_apps_Calculator" path="packages/apps/Calculator" remote="github" revision="ics-devel"/>
-  <project name="aospX/platform_packages_apps_Camera" path="packages/apps/Camera" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_packages_apps_CellBroadcastReceiver" path="packages/apps/CellBroadcastReceiver" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_packages_apps_Contacts" path="packages/apps/Contacts" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_packages_apps_FileManager" path="packages/apps/FileManager" remote="github" revision="ics-devel"/>
@@ -276,6 +275,7 @@
   <project name="steppnasty/platform_packages_apps_Bluetooth" path="packages/apps/Bluetooth" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_apps_Browser" path="packages/apps/Browser" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_apps_Calendar" path="packages/apps/Calendar" remote="github" revision="jb-dev"/>
+  <project name="steppnasty/platform_packages_apps_Camera" path="packages/apps/Camera" remote="aosp" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_apps_Launcher2" path="packages/apps/Launcher2" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_apps_Mms" path="packages/apps/Mms" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_apps_MusicFX" path="packages/apps/MusicFX" remote="github" revision="jb-dev"/>
