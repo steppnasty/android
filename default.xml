@@ -271,7 +271,7 @@
   <project name="steppnasty/platform_packages_apps_Browser" path="packages/apps/Browser" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_apps_Calendar" path="packages/apps/Calendar" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_apps_Camera" path="packages/apps/Camera" remote="github" revision="jb-dev"/>
-  <project name="steppnasty/platform_packages_apps_Gallery2" path"packages/apps/Gallery2" remote="github" revision="jb-dev"/>
+  <project name="steppnasty/platform_packages_apps_Gallery2" path="packages/apps/Gallery2" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_apps_Launcher2" path="packages/apps/Launcher2" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_apps_Mms" path="packages/apps/Mms" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_apps_MusicFX" path="packages/apps/MusicFX" remote="github" revision="jb-dev"/>
