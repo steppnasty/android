@@ -32,7 +32,6 @@
     <copyfile dest="vendor/qcom/Android.mk" src="target/platform/qcom.mk"/>
     <copyfile dest="hardware/ti/Android.mk" src="target/platform/omap.mk"/>
   </project>
-  <project name="aospX/platform_dalvik" path="dalvik" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_device_htc_common" path="device/htc/common" remote="github" revision="ics-devel"/>
   <project name="steppnasty/platform_external_bluetooth_bluez" path="external/bluetooth/bluez" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_bluetooth_glib" path="external/bluetooth/glib" remote="github" revision="ics-devel"/>
@@ -282,6 +281,7 @@
   <project name="steppnasty/platform_packages_apps_Nfc" path="packages/apps/Nfc" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_apps_Phone" path="packages/apps/Phone" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_apps_Settings" path="packages/apps/Settings" remote="github" revision="jb-dev"/>
+  <project name="steppnasty/platform_dalvik" path="dalvik" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_inputmethods_LatinIME" path="packages/inputmethods/LatinIME" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_providers_ApplicationsProvider" path="packages/providers/ApplicationsProvider" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_providers_ContactsProvider" path="packages/providers/ContactsProvider" remote="github" revision="jb-dev"/>
