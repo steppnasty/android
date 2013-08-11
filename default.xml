@@ -181,6 +181,7 @@
   <project name="platform/external/wpa_supplicant" path="external/wpa_supplicant"/>
   <project name="platform/external/wpa_supplicant_6" path="external/wpa_supplicant_6"/>
   <project name="platform/external/xmlwriter" path="external/xmlwriter"/>
+  <project name="platform/external/xmp_toolkit" path="external/xmp_toolkit" remote="aosp" revision="jb-mr1.1-release"/>
   <project name="platform/external/yaffs2" path="external/yaffs2"/>
   <project name="platform/frameworks/compile/linkloader" path="frameworks/compile/linkloader"/>
   <project name="platform/frameworks/opt/emoji" path="frameworks/opt/emoji"/>
