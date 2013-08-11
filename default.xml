@@ -136,7 +136,7 @@
   <project name="platform/external/javasqlite" path="external/javasqlite"/>
   <project name="platform/external/javassist" path="external/javassist"/>
   <project name="platform/external/jdiff" path="external/jdiff"/>
-  <project name="platform/external/jhead" path="external/jhead"/>
+  <project name="platform/external/jhead" path="external/jhead" remote="aosp" revision="jb-mr1.1-release"/>
   <project name="platform/external/jsilver" path="external/jsilver"/>
   <project name="platform/external/jsr305" path="external/jsr305"/>
   <project name="platform/external/junit" path="external/junit" remote="aosp" revision="jb-mr1.1-release"/>
