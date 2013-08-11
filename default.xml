@@ -23,7 +23,6 @@
   <project name="CyanogenMod/android_external_tcpdump" path="external/tcpdump" remote="github" revision="ics"/>
   <project name="CyanogenMod/android_external_vim" path="external/vim" remote="github" revision="ics"/>
   <project name="CyanogenMod/android_external_wireless-tools" path="external/wireless-tools" remote="github" revision="ics"/>
-  <project name="CyanogenMod/android_hardware_broadcom_wlan" path="hardware/broadcom/wlan" remote="github" revision="ics"/>
   <project name="CyanogenMod/android_hardware_ril" path="hardware/ril" remote="github" revision="ics"/>
   <project name="CyanogenMod/android_packages_apps_Superuser" path="packages/apps/Superuser" remote="github" revision="cm-10.1"/>
   <project name="steppnasty/platform_build" path="build" remote="github" revision="jb-dev">
@@ -249,6 +248,7 @@
   <project name="SyNtheticNightmar3/platform_vendor_htc_glacier" path="vendor/htc/glacier" remote="github" revision="ics-dev"/>
   
   <!-- stepp_aospX specific parts !-->
+  <project name="steppnasty/android_hardware_broadcom_wlan" path="hardware/broadcom/wlan" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_bionic" path="bionic" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_development" path="development" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_device_htc_glacier" path="device/htc/glacier" remote="github" revision="ics-dev"/>
