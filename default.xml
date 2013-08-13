@@ -41,7 +41,6 @@
   <project name="aospX/platform_external_e2fsprogs" path="external/e2fsprogs" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_freetype" path="external/freetype" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_gtest" path="external/gtest" remote="github" revision="ics-devel"/>
-  <project name="aospX/platform_external_icu4c" path="external/icu4c" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_jpeg" path="external/jpeg" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_kissfft" path="external/kissfft" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_libphonenumber" path="external/libphonenumber" remote="github" revision="ics-devel"/>
@@ -131,6 +130,7 @@
   <project name="platform/external/guava" path="external/guava"/>
   <project name="platform/external/harfbuzz" path="external/harfbuzz"/>
   <project name="platform/external/hyphenation" path="external/hyphenation"/>
+  <project name="platform/external/icu4c" path="external/icu4c" remote="aosp" revision="jb-mr1.1-release"/>
   <project name="platform/external/ipsec-tools" path="external/ipsec-tools"/>
   <project name="platform/external/javasqlite" path="external/javasqlite"/>
   <project name="platform/external/javassist" path="external/javassist"/>
