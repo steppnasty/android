@@ -128,6 +128,7 @@
   <project name="platform/external/google-diff-match-patch" path="external/google-diff-match-patch"/>
   <project name="platform/external/grub" path="external/grub"/>
   <project name="platform/external/guava" path="external/guava"/>
+  <project name="platform/external/hamcrest" path="external/hamcrest" remote="aosp" revision="jb-mr1.1-release"/>
   <project name="platform/external/harfbuzz" path="external/harfbuzz"/>
   <project name="platform/external/hyphenation" path="external/hyphenation"/>
   <project name="platform/external/icu4c" path="external/icu4c" remote="aosp" revision="jb-mr1.1-release"/>
