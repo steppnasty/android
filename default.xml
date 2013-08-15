@@ -89,7 +89,7 @@
   <project name="platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy"/>
   <project name="platform/bootable/diskinstaller" path="bootable/diskinstaller"/>
   <project name="platform/bootable/recovery" path="bootable/recovery"/>
-  <project name="platform/cts" path="cts"/>
+  <project name="platform/cts" path="cts" remote="aosp" revision="jb-mr1.1-release"/>
   <project name="platform/docs/source.android.com" path="docs/source.android.com"/>
   <project name="platform/external/android-clat" path="external/android-clat"/>
   <project name="platform/external/android-mock" path="external/android-mock"/>
