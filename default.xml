@@ -211,7 +211,7 @@
   <project name="platform/packages/apps/Stk" path="packages/apps/Stk"/>
   <project name="platform/packages/apps/Tag" path="packages/apps/Tag"/>
   <project name="platform/packages/apps/VideoEditor" path="packages/apps/VideoEditor"/>
-  <project name="platform/packages/apps/VoiceDialer" path="packages/apps/VoiceDialer"/>
+  <project name="platform/packages/apps/VoiceDialer" path="packages/apps/VoiceDialer" remote="aosp" revision="jb-mr1.1-release"/> 
   <project name="platform/packages/experimental" path="packages/experimental"/>
   <project name="platform/packages/inputmethods/OpenWnn" path="packages/inputmethods/OpenWnn"/>
   <project name="platform/packages/inputmethods/PinyinIME" path="packages/inputmethods/PinyinIME"/>
