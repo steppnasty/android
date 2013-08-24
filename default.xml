@@ -43,7 +43,6 @@
   <project name="aospX/platform_external_gtest" path="external/gtest" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_jpeg" path="external/jpeg" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_kissfft" path="external/kissfft" remote="github" revision="ics-devel"/>
-  <project name="aospX/platform_external_libphonenumber" path="external/libphonenumber" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_libpng" path="external/libpng" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_libvpx" path="external/libvpx" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_libxml2" path="external/libxml2" remote="github" revision="master-2.7.8"/>
@@ -146,6 +145,7 @@
   <project name="platform/external/liblzf" path="external/liblzf"/>
   <project name="platform/external/libnfc-nxp" path="external/libnfc-nxp"/>
   <project name="platform/external/libnl-headers" path="external/libnl-headers"/>
+  <project name="platform/external/libphonenumber" path="external/libphonenumber" remote="aosp" revision="jb-mr1.1-release"/>
   <project name="platform/external/libselinux" path="external/libselinux"/>
   <project name="platform/external/libsepol" path="external/libsepol"/>
   <project name="platform/external/libxslt" path="external/libxslt"/>
