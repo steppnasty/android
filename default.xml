@@ -55,7 +55,6 @@
   <project name="aospX/platform_external_qemu" path="external/qemu" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_sonivox" path="external/sonivox" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_speex" path="external/speex" remote="github" revision="ics-devel"/>
-  <project name="aospX/platform_external_srec" path="external/srec" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_stlport" path="external/stlport" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_tremolo" path="external/tremolo" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_v8" path="external/v8" remote="github" revision="ics-devel"/>
@@ -174,6 +173,7 @@
   <project name="platform/external/replicaisland" path="external/replicaisland"/>
   <project name="platform/external/safe-iop" path="external/safe-iop"/>
   <project name="platform/external/sepolicy" path="external/sepolicy"/>
+  <project name="platform/external/srec" path="external/srec" remote="aosp" revision="jb-mr1.1-release"/>
   <project name="platform/external/srtp" path="external/srtp"/>
   <project name="platform/external/svox" path="external/svox"/>
   <project name="platform/external/tagsoup" path="external/tagsoup"/>
