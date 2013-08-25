@@ -297,5 +297,5 @@
   <project name="steppnasty/platform_system_media" path="system/media" remote="github" revision="ics-devel"/>
   <project name="steppnasty/platform_system_su" path="system/su" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_system_vold" path="system/vold" remote="github" revision="jb-dev"/>
-  <project name="steppnasty/platform_vendor_aospx" path="vendor/aospx" remote="github" revision="ics-devel"/>
+  <project name="steppnasty/platform_vendor_aospx" path="vendor/aospx" remote="github" revision="jb-dev"/>
 </manifest>
