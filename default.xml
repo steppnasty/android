@@ -187,6 +187,7 @@
   <project name="platform/frameworks/opt/emoji" path="frameworks/opt/emoji"/>
   <project name="platform/frameworks/opt/inputmethodcommon" path="frameworks/opt/inputmethodcommon"/>
   <project name="platform/frameworks/opt/mailcommon" path="frameworks/opt/mailcommon"/>
+  <project name="platform/frameworks/opt/mms" name="platform/frameworks/opt/mms" remote="aosp" revision="jb-mr1.1-release"/>
   <project name="platform/frameworks/opt/telephony" path="frameworks/opt/telephony" remote="aosp" revision="jb-mr1.1-release"/>
   <project name="platform/frameworks/opt/vcard" path="frameworks/opt/vcard"/>
   <project name="platform/hardware/invensense" path="hardware/invensense"/>
