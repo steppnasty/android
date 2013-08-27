@@ -59,7 +59,6 @@
   <project name="aospX/platform_external_tremolo" path="external/tremolo" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_v8" path="external/v8" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_webrtc" path="external/webrtc" remote="github" revision="ics-devel"/>
-  <project name="aospX/platform_external_wpa_supplicant_8" path="external/wpa_supplicant_8" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_zlib" path="external/zlib" remote="github" revision="slhash"/>
   <project name="aospX/platform_frameworks_compile_libbcc" path="frameworks/compile/libbcc" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_frameworks_compile_slang" path="frameworks/compile/slang" remote="github" revision="ics-devel"/>
@@ -179,7 +178,8 @@
   <project name="platform/external/tinyxml" path="external/tinyxml"/>
   <project name="platform/external/valgrind" path="external/valgrind"/>
   <project name="platform/external/wpa_supplicant" path="external/wpa_supplicant"/>
-  <project name="platform/external/wpa_supplicant_6" path="external/wpa_supplicant_6"/>
+  <project name="platform/external/wpa_supplicant_6" path="external/wpa_supplicant_6" remote="aosp" revision="jb-mr1.1-release"/>
+  <project name="platform/external/wpa_supplicant_8" path="external/wpa_supplicant_8" remote="aosp" revision="jb-mr1.1-release"/>
   <project name="platform/external/xmlwriter" path="external/xmlwriter"/>
   <project name="platform/external/xmp_toolkit" path="external/xmp_toolkit" remote="aosp" revision="jb-mr1.1-release"/>
   <project name="platform/external/yaffs2" path="external/yaffs2"/>
