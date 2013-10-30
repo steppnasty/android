@@ -141,7 +141,7 @@
   <project name="platform/external/libnfc-nxp" path="external/libnfc-nxp"/>
   <project name="platform/external/libnl-headers" path="external/libnl-headers"/>
   <project name="platform/external/libphonenumber" path="external/libphonenumber" remote="aosp" revision="jb-mr1.1-release"/>
-  <project name="platform/external/libselinux" path="external/libselinux"/>
+  <project name="platform/external/libselinux" path="external/libselinux" remote="aosp" revision="jb-mr1.1-release"/>
   <project name="platform/external/libsepol" path="external/libsepol"/>
   <project name="platform/external/libxslt" path="external/libxslt"/>
   <project name="platform/external/lohit-fonts" path="external/lohit-fonts"/>
