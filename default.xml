@@ -189,6 +189,7 @@
   <project name="platform/frameworks/opt/mms" path="frameworks/opt/mms" remote="aosp" revision="jb-mr1.1-release"/>
   <project name="platform/frameworks/opt/telephony" path="frameworks/opt/telephony" remote="aosp" revision="jb-mr1.1-release"/>
   <project name="platform/frameworks/opt/vcard" path="frameworks/opt/vcard"/>
+  <project name="platform/frameworks/support" path="frameworks/support" remote="aosp" revision="jb-mr1.1-release"/>
   <project name="platform/hardware/invensense" path="hardware/invensense"/>
   <project name="platform/libnativehelper" path="libnativehelper" remote="aosp" revision="jb-mr1.1-release"/>
   <project name="platform/ndk" path="ndk"/>
@@ -261,7 +262,6 @@
   <project name="steppnasty/platform_frameworks_native" path="frameworks/native" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_frameworks_ex" path="frameworks/ex" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_frameworks_opt_calendar" path="frameworks/opt/calendar" remote="github" revision="jb-dev"/>
-  <project name="steppnasty/platform_frameworks_support" path="frameworks/support" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_hardware_qcom_display" path="hardware/qcom/display" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_hardware_qcom_media" path="hardware/qcom/media" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_hardware_libhardware" path="hardware/libhardware" remote="github" revision="jb-dev"/>
