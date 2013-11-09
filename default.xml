@@ -32,8 +32,6 @@
     <copyfile dest="hardware/ti/Android.mk" src="target/platform/omap.mk"/>
   </project>
   <project name="aospX/platform_device_htc_common" path="device/htc/common" remote="github" revision="ics-devel"/>
-  <project name="steppnasty/platform_external_bluetooth_bluez" path="external/bluetooth/bluez" remote="github" revision="ics-devel"/>
-  <project name="aospX/platform_external_bluetooth_glib" path="external/bluetooth/glib" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_busybox" path="external/busybox" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_chromium" path="external/chromium" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_clang" path="external/clang" remote="github" revision="ics-devel"/>
@@ -95,7 +93,6 @@
   <project name="platform/external/astl" path="external/astl"/>
   <project name="platform/external/bison" path="external/bison"/>
   <project name="platform/external/blktrace" path="external/blktrace"/>
-  <project name="platform/external/bluetooth/hcidump" path="external/bluetooth/hcidump"/>
   <project name="platform/external/bouncycastle" path="external/bouncycastle"/>
   <project name="platform/external/bsdiff" path="external/bsdiff"/>
   <project name="platform/external/bzip2" path="external/bzip2"/>
@@ -251,6 +248,7 @@
   <project name="steppnasty/platform_development" path="development" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_device_htc_glacier" path="device/htc/glacier" remote="github" revision="ics-dev"/>
   <project name="steppnasty/platform_device_htc_msm7x30-common" path="device/htc/msm7x30-common" remote="github" revision="jb-dev"/>
+  <project name="steppnasty/platform_external_bluetooth_bluedroid" path="external/bluetooth/bluedroid" remote="github" revision="jb-dev" />
   <project name="steppnasty/platform_external_dhcpcd" path="external/dhcpcd" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_external_kernel-headers" path="external/kernel-headers" remote="github" revision="jb-dev" />
   <project name="steppnasty/platform_external_skia" path="external/skia" remote="github" revision="jb-dev"/>
