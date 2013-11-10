@@ -256,6 +256,7 @@
   <project name="steppnasty/platform_external_webkit" path="external/webkit" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_external_webp" path="external/webp" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_external_wpa_supplicant_8" path="external/wpa_supplicant_8" remote="github" revision="jb-dev"/>
+  <project name="steppnasty/platform_frameworks_av" path="frameworks/av" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_frameworks_base" path="frameworks/base" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_frameworks_native" path="frameworks/native" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_frameworks_ex" path="frameworks/ex" remote="github" revision="jb-dev"/>
