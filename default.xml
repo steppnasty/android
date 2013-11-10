@@ -59,7 +59,6 @@
   <project name="aospX/platform_external_zlib" path="external/zlib" remote="github" revision="slhash"/>
   <project name="aospX/platform_frameworks_compile_libbcc" path="frameworks/compile/libbcc" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_frameworks_compile_slang" path="frameworks/compile/slang" remote="github" revision="ics-devel"/>
-  <project name="aospX/platform_frameworks_media_libvideoeditor" path="frameworks/media/libvideoeditor" remote="github" revision="ics-devel"/>
   <project name="steppnasty/platform_hardware_libhardware_legacy" path="hardware/libhardware_legacy" remote="github" revision="jb-dev"/>
   <project name="aospX/platform_hardware_msm7k" path="hardware/msm7k" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_hardware_qcom_gps" path="hardware/qcom/gps" remote="github" revision="ics-devel"/>
