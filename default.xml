@@ -67,8 +67,6 @@
   <project name="aospX/platform_packages_apps_SoundRecorder" path="packages/apps/SoundRecorder" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_system_bluetooth" path="system/bluetooth" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_system_extras" path="system/extras" remote="github" revision="ics-devel"/>
-  <project name="aospX/platform_vendor_qcom_opensource_omx_mm-core" path="hardware/qcom/media/mm-core" remote="github" revision="ics-devel"/>
-  <project name="aospX/platform_vendor_qcom_opensource_omx_mm-video" path="hardware/qcom/media/mm-video" remote="github" revision="ics-devel"/>
   <project name="device/generic/goldfish" path="device/generic/goldfish"/>
   <project name="device/google/accessory/arduino" path="device/google/accessory/arduino"/>
   <project name="device/google/accessory/demokit" path="device/google/accessory/demokit"/>
