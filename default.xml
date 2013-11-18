@@ -70,7 +70,6 @@
   <project name="aospX/platform_system_extras" path="system/extras" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_vendor_qcom_opensource_omx_mm-core" path="hardware/qcom/media/mm-core" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_vendor_qcom_opensource_omx_mm-video" path="hardware/qcom/media/mm-video" remote="github" revision="ics-devel"/>
-  <project name="aospX/platform_vendor_qcom_proprietary" path="vendor/qcom/proprietary" remote="github" revision="ics-devel"/>
   <project name="device/generic/goldfish" path="device/generic/goldfish"/>
   <project name="device/google/accessory/arduino" path="device/google/accessory/arduino"/>
   <project name="device/google/accessory/demokit" path="device/google/accessory/demokit"/>
@@ -295,4 +294,5 @@
   <project name="steppnasty/platform_system_vold" path="system/vold" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_vendor_aospx" path="vendor/aospx" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_vendor_htc_glacier" path="vendor/htc/glacier" remote="github" revision="jb-dev"/>
+  <project name="steppnasty/platform_vendor_qcom_proprietary" path="vendor/qcom/proprietary" remote="github" revision="jb-dev"/>
 </manifest>
