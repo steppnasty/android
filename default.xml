@@ -287,7 +287,7 @@
   <project name="steppnasty/platform_packages_wallpapers_LivePicker" path="packages/wallpapers/LivePicker" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_prebuilt" path="prebuilt" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_system_core" path="system/core" remote="github" revision="jb-dev"/>
-  <project name="steppnasty/platform_system_media" path="system/media" remote="github" revision="ics-devel"/>
+  <project name="steppnasty/platform_system_media" path="system/media" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_system_su" path="system/su" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_system_vold" path="system/vold" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_vendor_aospx" path="vendor/aospx" remote="github" revision="jb-dev"/>
