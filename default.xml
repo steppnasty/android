@@ -187,7 +187,7 @@
   <project name="platform/packages/apps/BasicSmsReceiver" path="packages/apps/BasicSmsReceiver"/>
   <project name="platform/packages/apps/Bluetooth" path="packages/apps/Bluetooth" remote="aosp" revision="jb-mr1.1-release"/>
   <project name="platform/packages/apps/Browser" path="packages/apps/Browser" remote="aosp" revision="jb-mr1.1-release"/>
-  <project name="platform/packages/apps/CertInstaller" path="packages/apps/CertInstaller"/>
+  <project name="platform/packages/apps/CertInstaller" path="packages/apps/CertInstaller" remote="aosp" revision="jb-mr1.1-release" />
   <project name="platform/packages/apps/Email" path="packages/apps/Email"/>
   <project name="platform/packages/apps/Exchange" path="packages/apps/Exchange"/>
   <project name="platform/packages/apps/Gallery" path="packages/apps/Gallery" remote="aosp" revision="jb-mr1.1-release"/>
