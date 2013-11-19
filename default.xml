@@ -88,7 +88,7 @@
   <project name="platform/external/astl" path="external/astl"/>
   <project name="platform/external/bison" path="external/bison"/>
   <project name="platform/external/blktrace" path="external/blktrace"/>
-  <project name="platform/external/bouncycastle" path="external/bouncycastle"/>
+  <project name="platform/external/bouncycastle" path="external/bouncycastle" remote="aosp" revision="jb-mr1.1-release"/>
   <project name="platform/external/bsdiff" path="external/bsdiff"/>
   <project name="platform/external/bzip2" path="external/bzip2"/>
   <project name="platform/external/checkpolicy" path="external/checkpolicy"/>
