@@ -175,7 +175,7 @@
   <project name="platform/external/yaffs2" path="external/yaffs2"/>
   <project name="platform/frameworks/compile/linkloader" path="frameworks/compile/linkloader"/>
   <project name="platform/frameworks/opt/emoji" path="frameworks/opt/emoji"/>
-  <project name="platform/frameworks/opt/inputmethodcommon" path="frameworks/opt/inputmethodcommon" remote"aosp" revision="jb-mr1.1-release"/>
+  <project name="platform/frameworks/opt/inputmethodcommon" path="frameworks/opt/inputmethodcommon" remote="aosp" revision="jb-mr1.1-release"/>
   <project name="platform/frameworks/opt/mailcommon" path="frameworks/opt/mailcommon"/>
   <project name="platform/frameworks/opt/mms" path="frameworks/opt/mms" remote="aosp" revision="jb-mr1.1-release"/>
   <project name="platform/frameworks/opt/vcard" path="frameworks/opt/vcard"/>
