@@ -247,7 +247,7 @@
   <project name="steppnasty/platform_bionic" path="bionic" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_development" path="development" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_device_common" path="device/common" remote="github" revision="jb-dev" />
-  <project name="steppnasty/platform_device_htc_glacier" path="device/htc/glacier" remote="github" revision="ics-dev"/>
+  <project name="steppnasty/platform_device_htc_glacier" path="device/htc/glacier" remote="github" revision="jb-devel"/>
   <project name="steppnasty/platform_device_htc_msm7x30-common" path="device/htc/msm7x30-common" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_external_bluetooth_bluedroid" path="external/bluetooth/bluedroid" remote="github" revision="jb-dev" />
   <project name="steppnasty/platform_external_dhcpcd" path="external/dhcpcd" remote="github" revision="jb-dev"/>
@@ -293,6 +293,6 @@
   <project name="steppnasty/platform_system_su" path="system/su" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_system_vold" path="system/vold" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_vendor_aospx" path="vendor/aospx" remote="github" revision="jb-dev"/>
-  <project name="steppnasty/platform_vendor_htc_glacier" path="vendor/htc/glacier" remote="github" revision="jb-devel"/>
+  <project name="steppnasty/platform_vendor_htc_glacier" path="vendor/htc/glacier" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_vendor_qcom_proprietary" path="vendor/qcom/proprietary" remote="github" revision="jb-dev"/>
 </manifest>
