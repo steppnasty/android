@@ -14,5 +14,5 @@ Then to sync up:
 To build:
 
     . build/envsetup.sh
-    lunch aospx_glacier-userdebug
-    make -j4 aospx
+    lunch aospsx_glacier-userdebug
+    make -j4 aospsx
