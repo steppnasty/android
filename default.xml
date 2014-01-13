@@ -10,7 +10,6 @@
   
   <project name="CyanogenMod/android_external_bash" path="external/bash" remote="github" revision="ics"/>
   <project name="CyanogenMod/android_external_embunit" path="external/embunit" remote="github" revision="ics"/>
-  <project name="CyanogenMod/android_external_iproute2" path="external/iproute2" remote="github" revision="ics"/>
   <project name="CyanogenMod/android_external_iptables" path="external/iptables" remote="github" revision="ics"/>
   <project name="CyanogenMod/android_external_libncurses" path="external/libncurses" remote="github" revision="ics"/>
   <project name="CyanogenMod/android_external_libpcap" path="external/libpcap" remote="github" revision="ics"/>
@@ -252,6 +251,7 @@
   <project name="steppnasty/platform_external_busybox" path="external/busybox" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_external_dhcpcd" path="external/dhcpcd" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_external_kernel-headers" path="external/kernel-headers" remote="github" revision="jb-dev" />
+  <project name="steppnasty/platform_external_iproute2" path="external/iproute2" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_external_skia" path="external/skia" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_external_sqlite" path="external/sqlite" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_external_webkit" path="external/webkit" remote="github" revision="jb-dev"/>
