@@ -252,6 +252,7 @@
   <project name="steppnasty/platform_external_dhcpcd" path="external/dhcpcd" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_external_kernel-headers" path="external/kernel-headers" remote="github" revision="jb-dev" />
   <project name="steppnasty/platform_external_iproute2" path="external/iproute2" remote="github" revision="jb-dev"/>
+  <project name="steppnasty/platform_external_iptables" path="external/iptables" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_external_skia" path="external/skia" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_external_sqlite" path="external/sqlite" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_external_webkit" path="external/webkit" remote="github" revision="jb-dev"/>
