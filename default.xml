@@ -301,4 +301,6 @@
   <project name="steppnasty/platform_vendor_google" path="vendor/google" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_vendor_htc_glacier" path="vendor/htc/glacier" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_vendor_qcom_proprietary" path="vendor/qcom/proprietary" remote="github" revision="jb-dev"/>
+  
+  <project name="SyNtheticNightmar3/AospXStockBlu" path="vendor/tmobile/products/themes" remote="github" revision="master"/>
 </manifest>
