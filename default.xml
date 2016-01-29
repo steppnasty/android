@@ -267,6 +267,7 @@
   <project name="steppnasty/platform_frameworks_opt_calendar" path="frameworks/opt/calendar" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_frameworks_opt_telephony" path="frameworks/opt/telephony" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_frameworks_support" path="frameworks/support" remote="github" revision="jb-dev"/>
+  <project name="steppnasty/platform_hardware_qcom_audio" path="hardware/qcom/audio" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_hardware_qcom_camera" path="hardware/qcom/camera" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_hardware_qcom_display" path="hardware/qcom/display" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_hardware_qcom_media" path="hardware/qcom/media" remote="github" revision="jb-dev"/>
