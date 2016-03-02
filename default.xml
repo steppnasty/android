@@ -33,6 +33,7 @@
   <project name="platform/external/bsdiff" path="external/bsdiff"/>
   <project name="platform/external/bzip2" path="external/bzip2"/>
   <project name="platform/external/checkpolicy" path="external/checkpolicy"/>
+  <project name="platform/external/chromium" path="external/chromium" remote="aosp" revision="jb-mr1.1-release"/>
   <project name="platform/external/chromium-trace" path="external/chromium-trace"/>
   <project name="platform/external/collada" path="external/collada"/>
   <project name="platform/external/dbus" path="external/dbus"/>
@@ -276,7 +277,6 @@
   <project name="steppnasty/platform_vendor_qcom_proprietary" path="vendor/qcom/proprietary" remote="github" revision="jb-dev"/>
 
   <project name="aospX/platform_device_htc_common" path="device/htc/common" remote="github" revision="ics-devel"/>
-  <project name="aospX/platform_external_chromium" path="external/chromium" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_clang" path="external/clang" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_dnsmasq" path="external/dnsmasq" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_e2fsprogs" path="external/e2fsprogs" remote="github" revision="ics-devel"/>
