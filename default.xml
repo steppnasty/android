@@ -2,7 +2,7 @@
 <manifest>
   <remote  name="aosp"
            fetch="https://android.googlesource.com/"
-           revision="ics-plus-aosp"/>
+           revision="jb-mr1.1-release"/>
   <remote  name="aospSX"
            fetch="git://github.com/steppnasty/"
            revision="jb-dev"/>
@@ -13,7 +13,6 @@
            fetch="git://github.com/"/>
   <remote  name="linaro-android"
            fetch="git://android.git.linaro.org/"/>
-  
   <default remote="aosp" sync-j="4" sync-c="true"/>
 
   <!-- AOSP projects -->
@@ -25,9 +24,9 @@
   <project name="platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy"/>
   <project name="platform/bootable/diskinstaller" path="bootable/diskinstaller"/>
   <project name="platform/bootable/recovery" path="bootable/recovery"/>
-  <project name="platform/cts" path="cts" remote="aosp" revision="jb-mr1.1-release"/>
+  <project name="platform/cts" path="cts"/>
   <project name="platform/docs/source.android.com" path="docs/source.android.com"/>
-  <project name="platform/external/aac" path="external/aac" remote="aosp" revision="jb-mr1.1-release"/>
+  <project name="platform/external/aac" path="external/aac"/>
   <project name="platform/external/android-clat" path="external/android-clat"/>
   <project name="platform/external/android-mock" path="external/android-mock"/>
   <project name="platform/external/ant-glob" path="external/ant-glob"/>
@@ -38,16 +37,18 @@
   <project name="platform/external/astl" path="external/astl"/>
   <project name="platform/external/bison" path="external/bison"/>
   <project name="platform/external/blktrace" path="external/blktrace"/>
-  <project name="platform/external/bouncycastle" path="external/bouncycastle" remote="aosp" revision="jb-mr1.1-release"/>
+  <project name="platform/external/bouncycastle" path="external/bouncycastle"/>
   <project name="platform/external/bsdiff" path="external/bsdiff"/>
   <project name="platform/external/bzip2" path="external/bzip2"/>
   <project name="platform/external/checkpolicy" path="external/checkpolicy"/>
-  <project name="platform/external/chromium" path="external/chromium" remote="aosp" revision="jb-mr1.1-release"/>
+  <project name="platform/external/chromium" path="external/chromium"/>
   <project name="platform/external/chromium-trace" path="external/chromium-trace"/>
-  <project name="platform/external/collada" path="external/collada"/>
+  <project name="platform/external/clang" path="external/clang"/>
+  <project name="platform/external/compiler-rt" path="external/compiler-rt"/>
   <project name="platform/external/dbus" path="external/dbus"/>
   <project name="platform/external/doclava" path="external/doclava"/>
   <project name="platform/external/dropbear" path="external/dropbear"/>
+  <project name="platform/external/e2fsprogs" path="external/e2fsprogs"/>
   <project name="platform/external/easymock" path="external/easymock"/>
   <project name="platform/external/eclipse-basebuilder" path="external/eclipse-basebuilder"/>
   <project name="platform/external/eclipse-windowbuilder" path="external/eclipse-windowbuilder"/>
@@ -57,42 +58,44 @@
   <project name="platform/external/expat" path="external/expat"/>
   <project name="platform/external/eyes-free" path="external/eyes-free"/>
   <project name="platform/external/fdlibm" path="external/fdlibm"/>
-  <project name="platform/external/flac" path="external/flac" remote="aosp" revision="jb-mr1.1-release"/>
+  <project name="platform/external/flac" path="external/flac"/>
   <project name="platform/external/fsck_msdos" path="external/fsck_msdos"/>
-  <project name="platform/external/gcc-demangle" path="external/gcc-demangle" remote="aosp" revision="jb-mr1.1-release"/>
+  <project name="platform/external/gcc-demangle" path="external/gcc-demangle"/>
   <project name="platform/external/genext2fs" path="external/genext2fs"/>
   <project name="platform/external/giflib" path="external/giflib"/>
   <project name="platform/external/google-diff-match-patch" path="external/google-diff-match-patch"/>
   <project name="platform/external/grub" path="external/grub"/>
   <project name="platform/external/guava" path="external/guava"/>
-  <project name="platform/external/hamcrest" path="external/hamcrest" remote="aosp" revision="jb-mr1.1-release"/>
+  <project name="platform/external/hamcrest" path="external/hamcrest"/>
   <project name="platform/external/harfbuzz" path="external/harfbuzz"/>
   <project name="platform/external/hyphenation" path="external/hyphenation"/>
-  <project name="platform/external/icu4c" path="external/icu4c" remote="aosp" revision="jb-mr1.1-release"/>
+  <project name="platform/external/icu4c" path="external/icu4c"/>
   <project name="platform/external/ipsec-tools" path="external/ipsec-tools"/>
   <project name="platform/external/javasqlite" path="external/javasqlite"/>
   <project name="platform/external/javassist" path="external/javassist"/>
   <project name="platform/external/jdiff" path="external/jdiff"/>
-  <project name="platform/external/jhead" path="external/jhead" remote="aosp" revision="jb-mr1.1-release"/>
+  <project name="platform/external/jhead" path="external/jhead"/>
   <project name="platform/external/jsilver" path="external/jsilver"/>
   <project name="platform/external/jsr305" path="external/jsr305"/>
-  <project name="platform/external/junit" path="external/junit" remote="aosp" revision="jb-mr1.1-release"/>
+  <project name="platform/external/junit" path="external/junit"/>
   <project name="platform/external/libffi" path="external/libffi"/>
   <project name="platform/external/libgsm" path="external/libgsm"/>
   <project name="platform/external/liblzf" path="external/liblzf"/>
   <project name="platform/external/libnfc-nxp" path="external/libnfc-nxp"/>
   <project name="platform/external/libnl-headers" path="external/libnl-headers"/>
-  <project name="platform/external/libphonenumber" path="external/libphonenumber" remote="aosp" revision="jb-mr1.1-release"/>
-  <project name="platform/external/libselinux" path="external/libselinux" remote="aosp" revision="jb-mr1.1-release"/>
+  <project name="platform/external/libphonenumber" path="external/libphonenumber"/>
+  <project name="platform/external/libselinux" path="external/libselinux"/>
   <project name="platform/external/libsepol" path="external/libsepol"/>
   <project name="platform/external/libxslt" path="external/libxslt"/>
+  <project name="platform/external/libyuv" path="external/libyuv"/>
+  <project name="platform/external/llvm" path="external/llvm"/>
   <project name="platform/external/lohit-fonts" path="external/lohit-fonts"/>
   <project name="platform/external/markdown" path="external/markdown"/>
   <project name="platform/external/mesa3d" path="external/mesa3d"/>
   <project name="platform/external/mksh" path="external/mksh"/>
-  <project name="platform/external/mdnsresponder" path="external/mdnsresponder" remote="aosp" revision="jb-mr1.1-release"/>
+  <project name="platform/external/mdnsresponder" path="external/mdnsresponder"/>
   <project name="platform/external/mockwebserver" path="external/mockwebserver"/>
-  <project name="platform/external/mp4parser" path="external/mp4parser" remote="aosp" revision="jb-mr1.1-release"/>
+  <project name="platform/external/mp4parser" path="external/mp4parser"/>
   <project name="platform/external/mtpd" path="external/mtpd"/>
   <project name="platform/external/netcat" path="external/netcat"/>
   <project name="platform/external/netperf" path="external/netperf"/>
@@ -100,8 +103,7 @@
   <project name="platform/external/nist-sip" path="external/nist-sip"/>
   <project name="platform/external/oauth" path="external/oauth"/>
   <project name="platform/external/opencv" path="external/opencv"/>
-  <project name="platform/external/openssl" path="external/openssl" remote="aosp" revision="jb-mr1.1-release"/>
-  <project name="platform/external/pcre" path="external/pcre"/>
+  <project name="platform/external/openssl" path="external/openssl"/>
   <project name="platform/external/ppp" path="external/ppp"/>
   <project name="platform/external/proguard" path="external/proguard"/>
   <project name="platform/external/protobuf" path="external/protobuf"/>
@@ -110,57 +112,67 @@
   <project name="platform/external/replicaisland" path="external/replicaisland"/>
   <project name="platform/external/safe-iop" path="external/safe-iop"/>
   <project name="platform/external/sepolicy" path="external/sepolicy"/>
-  <project name="platform/external/srec" path="external/srec" remote="aosp" revision="jb-mr1.1-release"/>
+  <project name="platform/external/srec" path="external/srec"/>
   <project name="platform/external/srtp" path="external/srtp"/>
+  <project name="platform/external/stlport" path="external/stlport"/>
   <project name="platform/external/svox" path="external/svox"/>
   <project name="platform/external/tagsoup" path="external/tagsoup"/>
   <project name="platform/external/tinyalsa" path="external/tinyalsa"/>
-  <project name="platform/external/tinyxml" path="external/tinyxml" remote="aosp" revision="jb-mr1.1-release"/>
-  <project name="platform/external/tinyxml2" path="external/tinyxml2" remote="aosp" revision="jb-mr1.1-release"/>
+  <project name="platform/external/tinyxml" path="external/tinyxml"/>
+  <project name="platform/external/tinyxml2" path="external/tinyxml2"/>
   <project name="platform/external/valgrind" path="external/valgrind"/>
-  <project name="platform/external/wpa_supplicant" path="external/wpa_supplicant"/>
-  <project name="platform/external/wpa_supplicant_6" path="external/wpa_supplicant_6" remote="aosp" revision="jb-mr1.1-release"/>
+  <project name="platform/external/wpa_supplicant_6" path="external/wpa_supplicant_6"/>
   <project name="platform/external/xmlwriter" path="external/xmlwriter"/>
-  <project name="platform/external/xmp_toolkit" path="external/xmp_toolkit" remote="aosp" revision="jb-mr1.1-release"/>
+  <project name="platform/external/xmp_toolkit" path="external/xmp_toolkit"/>
   <project name="platform/external/yaffs2" path="external/yaffs2"/>
+  <project name="platform/external/zlib" path="external/zlib"/>
+  <project name="platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc"/>
   <project name="platform/frameworks/compile/linkloader" path="frameworks/compile/linkloader"/>
+  <project name="platform/frameworks/compile/llvm-ndk-cc" path="frameworks/compile/llvm-ndk-cc"/>
+  <project name="platform/frameworks/compile/mclinker" path="frameworks/compile/mclinker"/>
+  <project name="platform/frameworks/compile/slang" path="frameworks/compile/slang"/>
   <project name="platform/frameworks/opt/emoji" path="frameworks/opt/emoji"/>
-  <project name="platform/frameworks/opt/inputmethodcommon" path="frameworks/opt/inputmethodcommon" remote="aosp" revision="jb-mr1.1-release"/>
+  <project name="platform/frameworks/opt/inputmethodcommon" path="frameworks/opt/inputmethodcommon"/>
   <project name="platform/frameworks/opt/mailcommon" path="frameworks/opt/mailcommon"/>
-  <project name="platform/frameworks/opt/mms" path="frameworks/opt/mms" remote="aosp" revision="jb-mr1.1-release"/>
+  <project name="platform/frameworks/opt/mms" path="frameworks/opt/mms"/>
   <project name="platform/frameworks/opt/vcard" path="frameworks/opt/vcard"/>
+  <project name="platform/frameworks/rs" path="frameworks/rs"/>
+  <project name="platform/frameworks/wilhelm" path="frameworks/wilhelm"/>
   <project name="platform/hardware/invensense" path="hardware/invensense"/>
-  <project name="platform/libnativehelper" path="libnativehelper" remote="aosp" revision="jb-mr1.1-release"/>
+  <project name="platform/libnativehelper" path="libnativehelper"/>
   <project name="platform/ndk" path="ndk"/>
   <project name="platform/packages/apps/BasicSmsReceiver" path="packages/apps/BasicSmsReceiver"/>
-  <project name="platform/packages/apps/Bluetooth" path="packages/apps/Bluetooth" remote="aosp" revision="jb-mr1.1-release"/>
-  <project name="platform/packages/apps/Browser" path="packages/apps/Browser" remote="aosp" revision="jb-mr1.1-release"/>
-  <project name="platform/packages/apps/CertInstaller" path="packages/apps/CertInstaller" remote="aosp" revision="jb-mr1.1-release" />
+  <project name="platform/packages/apps/Bluetooth" path="packages/apps/Bluetooth"/>
+  <project name="platform/packages/apps/Browser" path="packages/apps/Browser"/>
+  <project name="platform/packages/apps/CertInstaller" path="packages/apps/CertInstaller"/>
   <project name="platform/packages/apps/Email" path="packages/apps/Email"/>
   <project name="platform/packages/apps/Exchange" path="packages/apps/Exchange"/>
-  <project name="platform/packages/apps/Gallery" path="packages/apps/Gallery" remote="aosp" revision="jb-mr1.1-release"/>
-  <project name="platform/packages/apps/HTMLViewer" path="packages/apps/HTMLViewer" remote="aosp" revision="jb-mr1.1-release"/>
-  <project name="platform/packages/apps/KeyChain" path="packages/apps/KeyChain" remote="aosp" revision="jb-mr1.1-release" />
-  <project name="platform/packages/apps/LegacyCamera" path="packages/apps/LegacyCamera" remote="aosp" revision="jb-mr1.1-release"/>
-  <project name="platform/packages/apps/Music" path="packages/apps/Music" remote="aosp" revision="jb-mr1.1-release"/>
-  <project name="platform/packages/apps/MusicFX" path="packages/apps/MusicFX" remote="aosp" revision="jb-mr1.1-release"/>
-  <project name="platform/packages/apps/PackageInstaller" path="packages/apps/PackageInstaller" remote="aosp" revision="jb-mr1.1-release"/>
+  <project name="platform/packages/apps/Gallery" path="packages/apps/Gallery"/>
+  <project name="platform/packages/apps/HTMLViewer" path="packages/apps/HTMLViewer"/>
+  <project name="platform/packages/apps/KeyChain" path="packages/apps/KeyChain"/>
+  <project name="platform/packages/apps/LegacyCamera" path="packages/apps/LegacyCamera"/>
+  <project name="platform/packages/apps/Music" path="packages/apps/Music"/>
+  <project name="platform/packages/apps/MusicFX" path="packages/apps/MusicFX"/>
+  <project name="platform/packages/apps/PackageInstaller" path="packages/apps/PackageInstaller"/>
   <project name="platform/packages/apps/Protips" path="packages/apps/Protips"/>
   <project name="platform/packages/apps/Provision" path="packages/apps/Provision"/>
   <project name="platform/packages/apps/QuickSearchBox" path="packages/apps/QuickSearchBox"/>
+  <project name="platform/packages/apps/SmartCardService" path="packages/apps/SmartCardService"/>
   <project name="platform/packages/apps/SpareParts" path="packages/apps/SpareParts"/>
   <project name="platform/packages/apps/SpeechRecorder" path="packages/apps/SpeechRecorder"/>
-  <project name="platform/packages/apps/Stk" path="packages/apps/Stk" remote="aosp" revision="jb-mr1.1-release"/>
+  <project name="platform/packages/apps/Stk" path="packages/apps/Stk"/>
   <project name="platform/packages/apps/Tag" path="packages/apps/Tag"/>
   <project name="platform/packages/apps/VideoEditor" path="packages/apps/VideoEditor"/>
-  <project name="platform/packages/apps/VoiceDialer" path="packages/apps/VoiceDialer" remote="aosp" revision="jb-mr1.1-release"/> 
+  <project name="platform/packages/apps/VoiceDialer" path="packages/apps/VoiceDialer"/> 
   <project name="platform/packages/experimental" path="packages/experimental"/>
-  <project name="platform/packages/inputmethods/OpenWnn" path="packages/inputmethods/OpenWnn" remote="aosp" revision="jb-mr1.1-release"/>
-  <project name="platform/packages/inputmethods/PinyinIME" path="packages/inputmethods/PinyinIME" remote="aosp" revision="jb-mr1.1-release"/>
-  <project name="platform/packages/providers/CalendarProvider" path="packages/providers/CalendarProvider" remote="aosp" revision="jb-mr1.1-release"/>
-  <project name="platform/packages/providers/DownloadProvider" path="packages/providers/DownloadProvider" remote="aosp" revision="jb-mr1.1-release"/>
-  <project name="platform/packages/providers/GoogleContactsProvider" path="packages/providers/GoogleContactsProvider"/>
-  <project name="platform/packages/providers/MediaProvider" path="packages/providers/MediaProvider" remote="aosp" revision="jb-mr1.1-release"/>
+  <project name="platform/packages/inputmethods/OpenWnn" path="packages/inputmethods/OpenWnn"/>
+  <project name="platform/packages/inputmethods/PinyinIME" path="packages/inputmethods/PinyinIME"/>
+  <project name="platform/packages/providers/CalendarProvider" path="packages/providers/CalendarProvider"/>
+  <project name="platform/packages/providers/DownloadProvider" path="packages/providers/DownloadProvider"/>
+  <project name="platform/packages/providers/MediaProvider" path="packages/providers/MediaProvider"/>
+  <project name="platform/packages/screensavers/Basic" path="packages/screensavers/Basic"/>
+  <project name="platform/packages/screensavers/PhotoTable" path="packages/screensavers/PhotoTable"/>
+  <project name="platform/packages/screensavers/WebView" path="packages/screensavers/WebView"/>
   <project name="platform/packages/wallpapers/Basic" path="packages/wallpapers/Basic"/>
   <project name="platform/packages/wallpapers/Galaxy4" path="packages/wallpapers/Galaxy4"/>
   <project name="platform/packages/wallpapers/HoloSpiral" path="packages/wallpapers/HoloSpiral"/>
@@ -168,24 +180,32 @@
   <project name="platform/packages/wallpapers/MusicVisualization" path="packages/wallpapers/MusicVisualization"/>
   <project name="platform/packages/wallpapers/NoiseField" path="packages/wallpapers/NoiseField"/>
   <project name="platform/packages/wallpapers/PhaseBeam" path="packages/wallpapers/PhaseBeam"/>
+  <project name="platform/prebuilts/clang/darwin-x86/3.1" path="prebuilts/clang/darwin-x86/3.1"/>
+  <project name="platform/prebuilts/clang/darwin-x86/3.2" path="prebuilts/clang/darwin-x86/3.2"/>
+  <project name="platform/prebuilts/clang/linux-x86/3.1" path="prebuilts/clang/linux-x86/3.1"/>
+  <project name="platform/prebuilts/clang/linux-x86/3.2" path="prebuilts/clang/linux-x86/3.2"/>
   <project name="platform/prebuilts/eclipse" path="prebuilts/eclipse"/>
+  <project name="platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.6" path="prebuilts/gcc/darwin-x86/arm/arm-eabi-4.6"/>
   <project name="platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.6" path="prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.6"/>
-  <project name="platform/prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.4.3" path="prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.4.3"/>
   <project name="platform/prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.6" path="prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.6"/>
   <project name="platform/prebuilts/gcc/darwin-x86/x86/i686-linux-android-4.6" path="prebuilts/gcc/darwin-x86/x86/i686-linux-android-4.6"/>
-  <project name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6" path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.6" revision="master"/>
-  <project name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.6" path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.6" revision="master"/>
-  <project name="platform/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.6" path="prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.6" revision="master"/>
-  <project name="platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.7-4.6" path="prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.7-4.6" revision="master"/>
-  <project name="platform/prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.4.3" path="prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.4.3"/>
+  <project name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6" path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.6"/>
+  <project name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.6" path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.6"/>
+  <project name="platform/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.4.3" path="prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.4.3"/>
+  <project name="platform/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.6" path="prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.6"/>
+  <project name="platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.7-4.6" path="prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.7-4.6"/>
   <project name="platform/prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.6" path="prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.6"/>
   <project name="platform/prebuilts/gcc/linux-x86/x86/i686-linux-android-4.6" path="prebuilts/gcc/linux-x86/x86/i686-linux-android-4.6"/>
   <project name="platform/prebuilts/misc" path="prebuilts/misc"/>
+  <project name="platform/prebuilts/ndk" path="prebuilts/ndk"/>
   <project name="platform/prebuilts/qemu-kernel" path="prebuilts/qemu-kernel"/>
+  <project name="platform/prebuilts/sdk" path="prebuilts/sdk"/>
   <project name="platform/prebuilts/tools" path="prebuilts/tools"/>
   <project name="platform/sdk" path="sdk"/>
-  <project name="platform/system/netd" path="system/netd" remote="aosp" revision="jb-mr1.1-release"/>
-  <project name="platform/system/security" path="system/security" remote="aosp" revision="jb-mr1.1-release"/>
+  <project name="platform/system/bluetooth" path="system/bluetooth"/>
+  <project name="platform/system/extras" path="system/extras"/>
+  <project name="platform/system/netd" path="system/netd"/>
+  <project name="platform/system/security" path="system/security"/>
 
   <!-- CAF Projects -->
   <project name="platform/external/node-sqlite-async" path="external/node-sqlite-async" remote="caf" revision="ics_chocolate"/>
@@ -274,7 +294,6 @@
   <project name="steppnasty/platform_packages_providers_TelephonyProvider" path="packages/providers/TelephonyProvider" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_providers_UserDictionaryProvider" path="packages/providers/UserDictionaryProvider" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_wallpapers_LivePicker" path="packages/wallpapers/LivePicker" remote="github" revision="jb-dev"/>
-  <project name="steppnasty/platform_prebuilt" path="prebuilt" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_system_core" path="system/core" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_system_media" path="system/media" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_system_su" path="system/su" remote="github" revision="jb-dev"/>
@@ -285,9 +304,7 @@
   <project name="steppnasty/platform_vendor_qcom_proprietary" path="vendor/qcom/proprietary" remote="github" revision="jb-dev"/>
 
   <project name="aospX/platform_device_htc_common" path="device/htc/common" remote="github" revision="ics-devel"/>
-  <project name="aospX/platform_external_clang" path="external/clang" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_dnsmasq" path="external/dnsmasq" remote="github" revision="ics-devel"/>
-  <project name="aospX/platform_external_e2fsprogs" path="external/e2fsprogs" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_freetype" path="external/freetype" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_gtest" path="external/gtest" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_jpeg" path="external/jpeg" remote="github" revision="ics-devel"/>
@@ -295,27 +312,19 @@
   <project name="aospX/platform_external_libpng" path="external/libpng" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_libvpx" path="external/libvpx" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_libxml2" path="external/libxml2" remote="github" revision="master-2.7.8"/>
-  <project name="aospX/platform_external_libyuv" path="external/libyuv" remote="github" revision="ics-devel"/>
-  <project name="aospX/platform_external_llvm" path="external/llvm" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_lsof" path="external/lsof" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_node" path="external/node" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_oprofile" path="external/oprofile" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_qemu" path="external/qemu" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_sonivox" path="external/sonivox" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_speex" path="external/speex" remote="github" revision="ics-devel"/>
-  <project name="aospX/platform_external_stlport" path="external/stlport" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_tremolo" path="external/tremolo" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_v8" path="external/v8" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_webrtc" path="external/webrtc" remote="github" revision="ics-devel"/>
-  <project name="aospX/platform_external_zlib" path="external/zlib" remote="github" revision="slhash"/>
-  <project name="aospX/platform_frameworks_compile_libbcc" path="frameworks/compile/libbcc" remote="github" revision="ics-devel"/>
-  <project name="aospX/platform_frameworks_compile_slang" path="frameworks/compile/slang" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_hardware_qcom_gps" path="hardware/qcom/gps" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_packages_apps_Calculator" path="packages/apps/Calculator" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_packages_apps_FileManager" path="packages/apps/FileManager" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_packages_apps_SoundRecorder" path="packages/apps/SoundRecorder" remote="github" revision="ics-devel"/>
-  <project name="aospX/platform_system_bluetooth" path="system/bluetooth" remote="github" revision="ics-devel"/>
-  <project name="aospX/platform_system_extras" path="system/extras" remote="github" revision="ics-devel"/>
 
   <project name="SyNtheticNightmar3/AospXStockBlu" path="vendor/tmobile/products/themes/AospXStockBlu" remote="github" revision="master"/>
 
