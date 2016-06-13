@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote fetch="https://android.googlesource.com/" name="aosp"/>
-  <remote fetch="git://codeaurora.org/" name="caf"/>
-  <remote fetch="git://github.com/" name="github"/>
-  <remote fetch="git://git.linaro.org/" name="linaro"/>
-  <remote fetch="git://android.git.linaro.org/" name="linaro-android"/>
+  <remote  name="aosp"
+           fetch="https://android.googlesource.com/"
+           revision="ics-plus-aosp"/>
+  <remote  name="aospSX"
+           fetch="git://github.com/steppnasty/"
+           revision="jb-dev"/>
+  <remote  name="caf"
+           fetch="git://codeaurora.org/"
+           revision="ics_chocolate"/>
+  <remote  name="github"
+           fetch="git://github.com/"/>
+  <remote  name="linaro-android"
+           fetch="git://android.git.linaro.org/"/>
   
-  <default remote="aosp" revision="ics-plus-aosp" sync-j="4" sync-c="true"/>
-  
+  <default remote="aosp" sync-j="4" sync-c="true"/>
+
+  <!-- AOSP projects -->
   <project name="device/generic/goldfish" path="device/generic/goldfish"/>
   <project name="device/google/accessory/arduino" path="device/google/accessory/arduino"/>
   <project name="device/google/accessory/demokit" path="device/google/accessory/demokit"/>
@@ -123,7 +132,6 @@
   <project name="platform/hardware/invensense" path="hardware/invensense"/>
   <project name="platform/libnativehelper" path="libnativehelper" remote="aosp" revision="jb-mr1.1-release"/>
   <project name="platform/ndk" path="ndk"/>
-  <project name="platform/packages/apps/0xbench" path="packages/apps/0xbench" remote="linaro-android" revision="linaro-master"/>
   <project name="platform/packages/apps/BasicSmsReceiver" path="packages/apps/BasicSmsReceiver"/>
   <project name="platform/packages/apps/Bluetooth" path="packages/apps/Bluetooth" remote="aosp" revision="jb-mr1.1-release"/>
   <project name="platform/packages/apps/Browser" path="packages/apps/Browser" remote="aosp" revision="jb-mr1.1-release"/>
@@ -310,4 +318,6 @@
   <project name="aospX/platform_system_extras" path="system/extras" remote="github" revision="ics-devel"/>
 
   <project name="SyNtheticNightmar3/AospXStockBlu" path="vendor/tmobile/products/themes/AospXStockBlu" remote="github" revision="master"/>
+
+  <project name="platform/packages/apps/0xbench" path="packages/apps/0xbench" remote="linaro-android" revision="linaro-master"/>
 </manifest>
