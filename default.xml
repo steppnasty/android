@@ -25,6 +25,7 @@
   <project name="platform/bootable/diskinstaller" path="bootable/diskinstaller"/>
   <project name="platform/bootable/recovery" path="bootable/recovery"/>
   <project name="platform/cts" path="cts"/>
+  <project name="platform/development" path="development"/>
   <project name="platform/docs/source.android.com" path="docs/source.android.com"/>
   <project name="platform/external/aac" path="external/aac"/>
   <project name="platform/external/android-clat" path="external/android-clat"/>
@@ -244,7 +245,6 @@
   <project name="steppnasty/android_hardware_broadcom_wlan" path="hardware/broadcom/wlan" remote="github" revision="jb-dev"/>
   <project name="steppnasty/htc-kernel-msm7x30" path="kernel/msm7x30" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_bionic" path="bionic" remote="github" revision="jb-dev"/>
-  <project name="steppnasty/platform_development" path="development" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_device_common" path="device/common" remote="github" revision="jb-dev" />
   <project name="steppnasty/platform_device_htc_glacier" path="device/htc/glacier" remote="github" revision="jb-devel"/>
   <project name="steppnasty/platform_device_htc_msm7x30-common" path="device/htc/msm7x30-common" remote="github" revision="jb-dev"/>
