@@ -228,6 +228,7 @@
   <project name="CyanogenMod/android_external_tcpdump" path="external/tcpdump" remote="github" revision="ics"/>
   <project name="CyanogenMod/android_external_vim" path="external/vim" remote="github" revision="ics"/>
   <project name="CyanogenMod/android_external_wireless-tools" path="external/wireless-tools" remote="github" revision="ics"/>
+  <project name="CyanogenMod/android_hardware_qcom_audio-caf" path="hardware/qcom/audio" remote="github" revision="cm-10.1"/>
   <project name="CyanogenMod/android_hardware_ril" path="hardware/ril" remote="github" revision="ics"/>
   <project name="CyanogenMod/android_packages_apps_Superuser" path="packages/apps/Superuser" remote="github" revision="cm-10.1"/>
   <project name="CyanogenMod/android_packages_apps_Torch" path="packages/apps/Torch" remote="github" revision="cm-10.1"/>
@@ -267,7 +268,6 @@
   <project name="steppnasty/platform_frameworks_opt_calendar" path="frameworks/opt/calendar" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_frameworks_opt_telephony" path="frameworks/opt/telephony" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_frameworks_support" path="frameworks/support" remote="github" revision="jb-dev"/>
-  <project name="steppnasty/platform_hardware_qcom_audio" path="hardware/qcom/audio" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_hardware_qcom_camera" path="hardware/qcom/camera" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_hardware_qcom_display" path="hardware/qcom/display" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_hardware_qcom_media" path="hardware/qcom/media" remote="github" revision="jb-dev"/>
