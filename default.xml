@@ -80,6 +80,7 @@
   <project name="platform/external/jsilver" path="external/jsilver"/>
   <project name="platform/external/jsr305" path="external/jsr305"/>
   <project name="platform/external/junit" path="external/junit"/>
+  <project name="platform/external/kernel-headers" path="external/kernel-headers"/>
   <project name="platform/external/libffi" path="external/libffi"/>
   <project name="platform/external/libgsm" path="external/libgsm"/>
   <project name="platform/external/liblzf" path="external/liblzf"/>
@@ -256,7 +257,6 @@
   <project name="steppnasty/platform_device_htc_msm7x30-common" path="device/htc/msm7x30-common" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_external_bluetooth_bluedroid" path="external/bluetooth/bluedroid" remote="github" revision="jb-dev" />
   <project name="steppnasty/platform_external_dhcpcd" path="external/dhcpcd" remote="github" revision="jb-dev"/>
-  <project name="steppnasty/platform_external_kernel-headers" path="external/kernel-headers" remote="github" revision="jb-dev" />
   <project name="steppnasty/platform_external_iproute2" path="external/iproute2" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_external_iptables" path="external/iptables" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_external_mm-open-daemon" path="external/mm-open-daemon" remote="github" revision="jb-dev"/>
