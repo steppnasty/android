@@ -117,6 +117,7 @@
   <project name="platform/external/safe-iop" path="external/safe-iop"/>
   <project name="platform/external/sepolicy" path="external/sepolicy"/>
   <project name="platform/external/skia" path="external/skia"/>
+  <project name="platform/external/sqlite" path="external/sqlite"/>
   <project name="platform/external/srec" path="external/srec"/>
   <project name="platform/external/srtp" path="external/srtp"/>
   <project name="platform/external/stlport" path="external/stlport"/>
@@ -260,7 +261,6 @@
   <project name="steppnasty/platform_external_iproute2" path="external/iproute2" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_external_iptables" path="external/iptables" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_external_mm-open-daemon" path="external/mm-open-daemon" remote="github" revision="jb-dev"/>
-  <project name="steppnasty/platform_external_sqlite" path="external/sqlite" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_external_webkit" path="external/webkit" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_external_webp" path="external/webp" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_external_wpa_supplicant_8" path="external/wpa_supplicant_8" remote="github" revision="jb-dev"/>
