@@ -106,6 +106,7 @@
   <project name="platform/external/oauth" path="external/oauth"/>
   <project name="platform/external/opencv" path="external/opencv"/>
   <project name="platform/external/openssl" path="external/openssl"/>
+  <project name="platform/external/oprofile" path="external/oprofile"/>
   <project name="platform/external/ppp" path="external/ppp"/>
   <project name="platform/external/proguard" path="external/proguard"/>
   <project name="platform/external/protobuf" path="external/protobuf"/>
@@ -314,7 +315,6 @@
   <project name="aospX/platform_external_libxml2" path="external/libxml2" remote="github" revision="master-2.7.8"/>
   <project name="aospX/platform_external_lsof" path="external/lsof" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_node" path="external/node" remote="github" revision="ics-devel"/>
-  <project name="aospX/platform_external_oprofile" path="external/oprofile" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_qemu" path="external/qemu" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_sonivox" path="external/sonivox" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_speex" path="external/speex" remote="github" revision="ics-devel"/>
