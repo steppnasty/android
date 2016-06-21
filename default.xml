@@ -169,6 +169,7 @@
   <project name="platform/packages/apps/VideoEditor" path="packages/apps/VideoEditor"/>
   <project name="platform/packages/apps/VoiceDialer" path="packages/apps/VoiceDialer"/> 
   <project name="platform/packages/experimental" path="packages/experimental"/>
+  <project name="platform/packages/inputmethods/LatinIME" path="packages/inputmethods/LatinIME"/>
   <project name="platform/packages/inputmethods/OpenWnn" path="packages/inputmethods/OpenWnn"/>
   <project name="platform/packages/inputmethods/PinyinIME" path="packages/inputmethods/PinyinIME"/>
   <project name="platform/packages/providers/CalendarProvider" path="packages/providers/CalendarProvider"/>
@@ -287,7 +288,6 @@
   <project name="steppnasty/platform_packages_apps_Phone" path="packages/apps/Phone" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_apps_Settings" path="packages/apps/Settings" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_dalvik" path="dalvik" remote="github" revision="jb-dev"/>
-  <project name="steppnasty/platform_packages_inputmethods_LatinIME" path="packages/inputmethods/LatinIME" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_providers_ApplicationsProvider" path="packages/providers/ApplicationsProvider" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_providers_ContactsProvider" path="packages/providers/ContactsProvider" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_providers_DrmProvider" path="packages/providers/DrmProvider" remote="github" revision="jb-dev"/>
