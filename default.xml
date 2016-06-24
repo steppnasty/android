@@ -237,6 +237,7 @@
   <project name="CyanogenMod/android_external_vim" path="external/vim" remote="github" revision="ics"/>
   <project name="CyanogenMod/android_external_wireless-tools" path="external/wireless-tools" remote="github" revision="ics"/>
   <project name="CyanogenMod/android_hardware_qcom_audio-caf" path="hardware/qcom/audio" remote="github" revision="cm-10.1"/>
+  <project name="CyanogenMod/android_hardware_qcom_gps" path="hardware/qcom/gps" remote="github" revision="cm-10.1"/>
   <project name="CyanogenMod/android_hardware_ril" path="hardware/ril" remote="github" revision="ics"/>
   <project name="CyanogenMod/android_packages_apps_Superuser" path="packages/apps/Superuser" remote="github" revision="cm-10.1"/>
   <project name="CyanogenMod/android_packages_apps_Torch" path="packages/apps/Torch" remote="github" revision="cm-10.1"/>
@@ -321,7 +322,6 @@
   <project name="aospX/platform_external_tremolo" path="external/tremolo" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_v8" path="external/v8" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_webrtc" path="external/webrtc" remote="github" revision="ics-devel"/>
-  <project name="aospX/platform_hardware_qcom_gps" path="hardware/qcom/gps" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_packages_apps_Calculator" path="packages/apps/Calculator" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_packages_apps_FileManager" path="packages/apps/FileManager" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_packages_apps_SoundRecorder" path="packages/apps/SoundRecorder" remote="github" revision="ics-devel"/>
