@@ -129,6 +129,7 @@
   <project name="platform/external/safe-iop" path="external/safe-iop"/>
   <project name="platform/external/sepolicy" path="external/sepolicy"/>
   <project name="platform/external/skia" path="external/skia"/>
+  <project name="platform/external/sonivox" path="external/sonivox"/>
   <project name="platform/external/sqlite" path="external/sqlite"/>
   <project name="platform/external/srec" path="external/srec"/>
   <project name="platform/external/srtp" path="external/srtp"/>
@@ -317,7 +318,6 @@
   <project name="aospX/platform_external_kissfft" path="external/kissfft" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_lsof" path="external/lsof" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_node" path="external/node" remote="github" revision="ics-devel"/>
-  <project name="aospX/platform_external_sonivox" path="external/sonivox" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_speex" path="external/speex" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_tremolo" path="external/tremolo" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_v8" path="external/v8" remote="github" revision="ics-devel"/>
