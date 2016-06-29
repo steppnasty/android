@@ -143,6 +143,7 @@
   <project name="platform/external/tremolo" path="external/tremolo"/>
   <project name="platform/external/v8" path="external/v8"/>
   <project name="platform/external/valgrind" path="external/valgrind"/>
+  <project name="platform/external/webkit" path="external/webkit"/>
   <project name="platform/external/wpa_supplicant_6" path="external/wpa_supplicant_6"/>
   <project name="platform/external/xmlwriter" path="external/xmlwriter"/>
   <project name="platform/external/xmp_toolkit" path="external/xmp_toolkit"/>
@@ -275,7 +276,6 @@
   <project name="steppnasty/platform_device_htc_msm7x30-common" path="device/htc/msm7x30-common" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_external_bluetooth_bluedroid" path="external/bluetooth/bluedroid" remote="github" revision="jb-dev" />
   <project name="steppnasty/platform_external_mm-open-daemon" path="external/mm-open-daemon" remote="github" revision="jb-dev"/>
-  <project name="steppnasty/platform_external_webkit" path="external/webkit" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_external_webp" path="external/webp" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_external_wpa_supplicant_8" path="external/wpa_supplicant_8" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_frameworks_av" path="frameworks/av" remote="github" revision="jb-dev"/>
