@@ -84,6 +84,7 @@
   <project name="platform/external/javassist" path="external/javassist"/>
   <project name="platform/external/jdiff" path="external/jdiff"/>
   <project name="platform/external/jhead" path="external/jhead"/>
+  <project name="platform/external/jpeg" path="external/jpeg"/>
   <project name="platform/external/jsilver" path="external/jsilver"/>
   <project name="platform/external/jsr305" path="external/jsr305"/>
   <project name="platform/external/junit" path="external/junit"/>
@@ -309,7 +310,6 @@
   <project name="steppnasty/platform_vendor_qcom_proprietary" path="vendor/qcom/proprietary" remote="github" revision="jb-dev"/>
 
   <project name="aospX/platform_device_htc_common" path="device/htc/common" remote="github" revision="ics-devel"/>
-  <project name="aospX/platform_external_jpeg" path="external/jpeg" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_kissfft" path="external/kissfft" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_libpng" path="external/libpng" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_libvpx" path="external/libvpx" remote="github" revision="ics-devel"/>
