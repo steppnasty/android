@@ -167,6 +167,7 @@
   <project name="platform/frameworks/support" path="frameworks/support"/>
   <project name="platform/frameworks/wilhelm" path="frameworks/wilhelm"/>
   <project name="platform/hardware/invensense" path="hardware/invensense"/>
+  <project name="platform/libcore" path="libcore"/>
   <project name="platform/libnativehelper" path="libnativehelper"/>
   <project name="platform/ndk" path="ndk"/>
   <project name="platform/packages/apps/BasicSmsReceiver" path="packages/apps/BasicSmsReceiver"/>
@@ -291,7 +292,6 @@
   <project name="steppnasty/platform_hardware_libhardware" path="hardware/libhardware" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_hardware_libhardware_legacy" path="hardware/libhardware_legacy" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_hardware_msm7k" path="hardware/msm7k" remote="github" revision="jb-dev"/>
-  <project name="steppnasty/platform_libcore" path="libcore" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_apps_Calendar" path="packages/apps/Calendar" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_apps_Camera" path="packages/apps/Camera" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_apps_CellBroadcastReceiver" path="packages/apps/CellBroadcastReceiver" remote="github" revision="jb-dev"/>
