@@ -77,6 +77,7 @@
   <project name="platform/external/harfbuzz" path="external/harfbuzz"/>
   <project name="platform/external/hyphenation" path="external/hyphenation"/>
   <project name="platform/external/icu4c" path="external/icu4c"/>
+  <project name="platform/external/iproute2" path="external/iproute2"/>
   <project name="platform/external/ipsec-tools" path="external/ipsec-tools"/>
   <project name="platform/external/javasqlite" path="external/javasqlite"/>
   <project name="platform/external/javassist" path="external/javassist"/>
@@ -263,7 +264,6 @@
   <project name="steppnasty/platform_device_htc_glacier" path="device/htc/glacier" remote="github" revision="jb-devel"/>
   <project name="steppnasty/platform_device_htc_msm7x30-common" path="device/htc/msm7x30-common" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_external_bluetooth_bluedroid" path="external/bluetooth/bluedroid" remote="github" revision="jb-dev" />
-  <project name="steppnasty/platform_external_iproute2" path="external/iproute2" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_external_iptables" path="external/iptables" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_external_mm-open-daemon" path="external/mm-open-daemon" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_external_webkit" path="external/webkit" remote="github" revision="jb-dev"/>
