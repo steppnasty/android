@@ -62,6 +62,7 @@
   <project name="platform/external/eyes-free" path="external/eyes-free"/>
   <project name="platform/external/fdlibm" path="external/fdlibm"/>
   <project name="platform/external/flac" path="external/flac"/>
+  <project name="platform/external/freetype" path="external/freetype"/>
   <project name="platform/external/fsck_msdos" path="external/fsck_msdos"/>
   <project name="platform/external/gcc-demangle" path="external/gcc-demangle"/>
   <project name="platform/external/genext2fs" path="external/genext2fs"/>
@@ -307,7 +308,6 @@
   <project name="steppnasty/platform_vendor_qcom_proprietary" path="vendor/qcom/proprietary" remote="github" revision="jb-dev"/>
 
   <project name="aospX/platform_device_htc_common" path="device/htc/common" remote="github" revision="ics-devel"/>
-  <project name="aospX/platform_external_freetype" path="external/freetype" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_gtest" path="external/gtest" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_jpeg" path="external/jpeg" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_kissfft" path="external/kissfft" remote="github" revision="ics-devel"/>
