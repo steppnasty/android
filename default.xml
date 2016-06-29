@@ -26,6 +26,7 @@
   <project name="platform/bootable/diskinstaller" path="bootable/diskinstaller"/>
   <project name="platform/bootable/recovery" path="bootable/recovery"/>
   <project name="platform/cts" path="cts"/>
+  <project name="platform/dalvik" path="dalvik"/>
   <project name="platform/development" path="development"/>
   <project name="platform/docs/source.android.com" path="docs/source.android.com"/>
   <project name="platform/external/aac" path="external/aac"/>
@@ -292,7 +293,6 @@
   <project name="steppnasty/platform_packages_apps_Nfc" path="packages/apps/Nfc" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_apps_Phone" path="packages/apps/Phone" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_apps_Settings" path="packages/apps/Settings" remote="github" revision="jb-dev"/>
-  <project name="steppnasty/platform_dalvik" path="dalvik" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_providers_ApplicationsProvider" path="packages/providers/ApplicationsProvider" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_providers_ContactsProvider" path="packages/providers/ContactsProvider" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_providers_DrmProvider" path="packages/providers/DrmProvider" remote="github" revision="jb-dev"/>
