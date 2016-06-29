@@ -98,6 +98,7 @@
   <project name="platform/external/libpng" path="external/libpng"/>
   <project name="platform/external/libselinux" path="external/libselinux"/>
   <project name="platform/external/libsepol" path="external/libsepol"/>
+  <project name="platform/external/libvpx" path="external/libvpx"/>
   <project name="platform/external/libxslt" path="external/libxslt"/>
   <project name="platform/external/libyuv" path="external/libyuv"/>
   <project name="platform/external/llvm" path="external/llvm"/>
@@ -312,7 +313,6 @@
 
   <project name="aospX/platform_device_htc_common" path="device/htc/common" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_kissfft" path="external/kissfft" remote="github" revision="ics-devel"/>
-  <project name="aospX/platform_external_libvpx" path="external/libvpx" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_libxml2" path="external/libxml2" remote="github" revision="master-2.7.8"/>
   <project name="aospX/platform_external_lsof" path="external/lsof" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_node" path="external/node" remote="github" revision="ics-devel"/>
