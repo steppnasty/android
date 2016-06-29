@@ -164,6 +164,7 @@
   <project name="platform/frameworks/opt/mms" path="frameworks/opt/mms"/>
   <project name="platform/frameworks/opt/vcard" path="frameworks/opt/vcard"/>
   <project name="platform/frameworks/rs" path="frameworks/rs"/>
+  <project name="platform/frameworks/support" path="frameworks/support"/>
   <project name="platform/frameworks/wilhelm" path="frameworks/wilhelm"/>
   <project name="platform/hardware/invensense" path="hardware/invensense"/>
   <project name="platform/libnativehelper" path="libnativehelper"/>
@@ -284,7 +285,6 @@
   <project name="steppnasty/platform_frameworks_base" path="frameworks/base" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_frameworks_native" path="frameworks/native" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_frameworks_opt_telephony" path="frameworks/opt/telephony" remote="github" revision="jb-dev"/>
-  <project name="steppnasty/platform_frameworks_support" path="frameworks/support" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_hardware_qcom_camera" path="hardware/qcom/camera" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_hardware_qcom_display" path="hardware/qcom/display" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_hardware_qcom_media" path="hardware/qcom/media" remote="github" revision="jb-dev"/>
