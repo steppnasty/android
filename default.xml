@@ -122,6 +122,7 @@
   <project name="platform/external/ppp" path="external/ppp"/>
   <project name="platform/external/proguard" path="external/proguard"/>
   <project name="platform/external/protobuf" path="external/protobuf"/>
+  <project name="platform/external/qemu" path="external/qemu"/>
   <project name="platform/external/qemu-pc-bios" path="external/qemu-pc-bios"/>
   <project name="platform/external/quake" path="external/quake"/>
   <project name="platform/external/replicaisland" path="external/replicaisland"/>
@@ -316,7 +317,6 @@
   <project name="aospX/platform_external_kissfft" path="external/kissfft" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_lsof" path="external/lsof" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_node" path="external/node" remote="github" revision="ics-devel"/>
-  <project name="aospX/platform_external_qemu" path="external/qemu" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_sonivox" path="external/sonivox" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_speex" path="external/speex" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_tremolo" path="external/tremolo" remote="github" revision="ics-devel"/>
