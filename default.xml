@@ -141,6 +141,7 @@
   <project name="platform/external/tinyxml" path="external/tinyxml"/>
   <project name="platform/external/tinyxml2" path="external/tinyxml2"/>
   <project name="platform/external/tremolo" path="external/tremolo"/>
+  <project name="platform/external/v8" path="external/v8"/>
   <project name="platform/external/valgrind" path="external/valgrind"/>
   <project name="platform/external/wpa_supplicant_6" path="external/wpa_supplicant_6"/>
   <project name="platform/external/xmlwriter" path="external/xmlwriter"/>
@@ -320,7 +321,6 @@
   <project name="aospX/platform_external_kissfft" path="external/kissfft" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_lsof" path="external/lsof" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_node" path="external/node" remote="github" revision="ics-devel"/>
-  <project name="aospX/platform_external_v8" path="external/v8" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_webrtc" path="external/webrtc" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_packages_apps_Calculator" path="packages/apps/Calculator" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_packages_apps_FileManager" path="packages/apps/FileManager" remote="github" revision="ics-devel"/>
