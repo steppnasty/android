@@ -245,7 +245,7 @@
   <project name="platform/vendor/qcom-opensource/webkit" path="vendor/qcom/opensource/webkit" remote="caf" revision="ics_chocolate"/>
 
   <!-- CyanogenMod Projects -->
-  <project name="CyanogenMod/android_external_bash" path="external/bash" remote="github" revision="ics"/>
+  <project name="CyanogenMod/android_external_bash" path="external/bash" remote="github" revision="cm-10.1"/>
   <project name="CyanogenMod/android_external_busybox" path="external/busybox" remote="github" revision="cm-10.1"/>
   <project name="CyanogenMod/android_external_embunit" path="external/embunit" remote="github" revision="ics"/>
   <project name="CyanogenMod/android_external_libncurses" path="external/libncurses" remote="github" revision="ics"/>
