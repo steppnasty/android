@@ -175,6 +175,7 @@
   <project name="platform/packages/apps/Browser" path="packages/apps/Browser"/>
   <project name="platform/packages/apps/Calendar" path="packages/apps/Calendar"/>
   <project name="platform/packages/apps/CertInstaller" path="packages/apps/CertInstaller"/>
+  <project name="platform/packages/apps/Contacts" path="packages/apps/Contacts"/>
   <project name="platform/packages/apps/Exchange" path="packages/apps/Exchange"/>
   <project name="platform/packages/apps/Gallery" path="packages/apps/Gallery"/>
   <project name="platform/packages/apps/HTMLViewer" path="packages/apps/HTMLViewer"/>
@@ -292,7 +293,6 @@
   <project name="steppnasty/platform_hardware_msm7k" path="hardware/msm7k" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_apps_Camera" path="packages/apps/Camera" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_apps_CellBroadcastReceiver" path="packages/apps/CellBroadcastReceiver" remote="github" revision="jb-dev"/>
-  <project name="steppnasty/platform_packages_apps_Contacts" path="packages/apps/Contacts" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_apps_DeskClock" path="packages/apps/DeskClock" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_apps_Email" path="packages/apps/Email" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_apps_Gallery2" path="packages/apps/Gallery2" remote="github" revision="jb-dev"/>
