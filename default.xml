@@ -254,7 +254,7 @@
   <project name="CyanogenMod/android_external_nano" path="external/nano" remote="github" revision="cm-10.1"/>
   <project name="CyanogenMod/android_external_ping" path="external/ping" remote="github" revision="cm-10.1"/>
   <project name="CyanogenMod/android_external_ping6" path="external/ping6" remote="github" revision="cm-10.1"/>
-  <project name="CyanogenMod/android_external_rsync" path="external/rsync" remote="github" revision="ics"/>
+  <project name="CyanogenMod/android_external_rsync" path="external/rsync" remote="github" revision="cm-10.1"/>
   <project name="CyanogenMod/android_external_strace" path="external/strace" remote="github" revision="ics"/>
   <project name="CyanogenMod/android_external_tcpdump" path="external/tcpdump" remote="github" revision="ics"/>
   <project name="CyanogenMod/android_external_vim" path="external/vim" remote="github" revision="ics"/>
