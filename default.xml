@@ -247,7 +247,7 @@
   <!-- CyanogenMod Projects -->
   <project name="CyanogenMod/android_external_bash" path="external/bash" remote="github" revision="cm-10.1"/>
   <project name="CyanogenMod/android_external_busybox" path="external/busybox" remote="github" revision="cm-10.1"/>
-  <project name="CyanogenMod/android_external_embunit" path="external/embunit" remote="github" revision="ics"/>
+  <project name="CyanogenMod/android_external_embunit" path="external/embunit" remote="github" revision="cm-10.1"/>
   <project name="CyanogenMod/android_external_libncurses" path="external/libncurses" remote="github" revision="ics"/>
   <project name="CyanogenMod/android_external_libpcap" path="external/libpcap" remote="github" revision="ics"/>
   <project name="CyanogenMod/android_external_lzo" path="external/lzo" remote="github" revision="ics"/>
