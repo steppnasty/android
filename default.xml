@@ -244,7 +244,7 @@
   <project name="platform/system/security" path="system/security"/>
 
   <!-- CAF Projects -->
-  <project name="platform/vendor/qcom-opensource/v8" path="vendor/qcom/opensource/v8" remote="caf" revision="ics_chocolate"/>
+  <project name="platform/vendor/qcom-opensource/v8" path="vendor/qcom/opensource/v8" remote="caf" revision="jb_mr1_rb4.19"/>
 
   <!-- CyanogenMod Projects -->
   <project name="android_external_bash" path="external/bash" remote="CM"/>
