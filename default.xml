@@ -250,7 +250,7 @@
   <project name="CyanogenMod/android_external_embunit" path="external/embunit" remote="github" revision="cm-10.1"/>
   <project name="CyanogenMod/android_external_libncurses" path="external/libncurses" remote="github" revision="cm-10.1"/>
   <project name="CyanogenMod/android_external_libpcap" path="external/libpcap" remote="github" revision="cm-10.1"/>
-  <project name="CyanogenMod/android_external_lzo" path="external/lzo" remote="github" revision="ics"/>
+  <project name="CyanogenMod/android_external_lzo" path="external/lzo" remote="github" revision="cm-10.1"/>
   <project name="CyanogenMod/android_external_nano" path="external/nano" remote="github" revision="ics"/>
   <project name="CyanogenMod/android_external_ping" path="external/ping" remote="github" revision="ics"/>
   <project name="CyanogenMod/android_external_ping6" path="external/ping6" remote="github" revision="ics"/>
