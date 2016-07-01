@@ -256,7 +256,7 @@
   <project name="CyanogenMod/android_external_ping6" path="external/ping6" remote="github" revision="cm-10.1"/>
   <project name="CyanogenMod/android_external_rsync" path="external/rsync" remote="github" revision="cm-10.1"/>
   <project name="CyanogenMod/android_external_strace" path="external/strace" remote="github" revision="cm-10.1"/>
-  <project name="CyanogenMod/android_external_tcpdump" path="external/tcpdump" remote="github" revision="ics"/>
+  <project name="CyanogenMod/android_external_tcpdump" path="external/tcpdump" remote="github" revision="cm-10.1"/>
   <project name="CyanogenMod/android_external_vim" path="external/vim" remote="github" revision="ics"/>
   <project name="CyanogenMod/android_external_wireless-tools" path="external/wireless-tools" remote="github" revision="ics"/>
   <project name="CyanogenMod/android_hardware_qcom_audio-caf" path="hardware/qcom/audio" remote="github" revision="cm-10.1"/>
