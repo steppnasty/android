@@ -7,8 +7,8 @@
            fetch="git://github.com/steppnasty/"
            revision="jb-dev"/>
   <remote  name="caf"
-           fetch="git://codeaurora.org/"
-           revision="ics_chocolate"/>
+           fetch="git://codeaurora.org/quic/la/"
+           revision="jb_mr1_rb4.19"/>
   <remote  name="CM"
            fetch="git://github.com/CyanogenMod/"
            revision="cm-10.1"/>
@@ -244,7 +244,7 @@
   <project name="platform/system/security" path="system/security"/>
 
   <!-- CAF Projects -->
-  <project name="platform/vendor/qcom-opensource/v8" path="vendor/qcom/opensource/v8" remote="caf" revision="jb_mr1_rb4.19"/>
+  <project name="platform/vendor/qcom-opensource/v8" path="vendor/qcom/opensource/v8" remote="caf"/>
 
   <!-- CyanogenMod Projects -->
   <project name="android_external_bash" path="external/bash" remote="CM"/>
