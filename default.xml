@@ -211,6 +211,7 @@
   <project name="platform/packages/wallpapers/Basic" path="packages/wallpapers/Basic"/>
   <project name="platform/packages/wallpapers/Galaxy4" path="packages/wallpapers/Galaxy4"/>
   <project name="platform/packages/wallpapers/HoloSpiral" path="packages/wallpapers/HoloSpiral"/>
+  <project name="platform/packages/wallpapers/LivePicker" path="packages/wallpapers/LivePicker"/>
   <project name="platform/packages/wallpapers/MagicSmoke" path="packages/wallpapers/MagicSmoke"/>
   <project name="platform/packages/wallpapers/MusicVisualization" path="packages/wallpapers/MusicVisualization"/>
   <project name="platform/packages/wallpapers/NoiseField" path="packages/wallpapers/NoiseField"/>
@@ -308,7 +309,6 @@
   <project name="steppnasty/platform_packages_providers_DrmProvider" path="packages/providers/DrmProvider" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_providers_TelephonyProvider" path="packages/providers/TelephonyProvider" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_providers_UserDictionaryProvider" path="packages/providers/UserDictionaryProvider" remote="github" revision="jb-dev"/>
-  <project name="steppnasty/platform_packages_wallpapers_LivePicker" path="packages/wallpapers/LivePicker" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_system_core" path="system/core" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_system_su" path="system/su" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_system_vold" path="system/vold" remote="github" revision="jb-dev"/>
