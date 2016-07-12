@@ -176,6 +176,7 @@
   <project name="platform/packages/apps/BasicSmsReceiver" path="packages/apps/BasicSmsReceiver"/>
   <project name="platform/packages/apps/Bluetooth" path="packages/apps/Bluetooth"/>
   <project name="platform/packages/apps/Browser" path="packages/apps/Browser"/>
+  <project name="platform/packages/apps/Calculator" path="packages/apps/Calculator"/>
   <project name="platform/packages/apps/Calendar" path="packages/apps/Calendar"/>
   <project name="platform/packages/apps/CertInstaller" path="packages/apps/CertInstaller"/>
   <project name="platform/packages/apps/Contacts" path="packages/apps/Contacts"/>
@@ -321,7 +322,6 @@
   <project name="aospX/platform_external_kissfft" path="external/kissfft" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_lsof" path="external/lsof" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_external_node" path="external/node" remote="github" revision="ics-devel"/>
-  <project name="aospX/platform_packages_apps_Calculator" path="packages/apps/Calculator" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_packages_apps_FileManager" path="packages/apps/FileManager" remote="github" revision="ics-devel"/>
   <project name="aospX/platform_packages_apps_SoundRecorder" path="packages/apps/SoundRecorder" remote="github" revision="ics-devel"/>
 
