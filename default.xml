@@ -249,7 +249,6 @@
   <project name="platform/prebuilts/tools" path="prebuilts/tools"/>
   <project name="platform/sdk" path="sdk"/>
   <project name="platform/system/bluetooth" path="system/bluetooth"/>
-  <project name="platform/system/extras" path="system/extras"/>
   <project name="platform/system/media" path="system/media"/>
   <project name="platform/system/netd" path="system/netd"/>
   <project name="platform/system/security" path="system/security"/>
@@ -313,6 +312,7 @@
   <project name="steppnasty/platform_packages_apps_SoundRecorder" path="packages/apps/SoundRecorder" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_packages_providers_ContactsProvider" path="packages/providers/ContactsProvider" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_system_core" path="system/core" remote="github" revision="jb-dev"/>
+  <project name="steppnasty/platform_system_extras" path="system/extras" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_system_vold" path="system/vold" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_vendor_aospsx" path="vendor/aospsx" remote="github" revision="jb-dev"/>
   <project name="steppnasty/platform_vendor_google" path="vendor/google" remote="github" revision="jb-dev"/>
