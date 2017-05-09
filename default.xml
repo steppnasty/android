@@ -274,7 +274,6 @@
   <project path="external/vim" name="android_external_vim" remote="CM"/>
   <project path="hardware/broadcom/wlan" name="android_hardware_broadcom_wlan" remote="CM"/>
   <project path="hardware/qcom/audio" name="android_hardware_qcom_audio-caf" remote="CM"/>
-  <project path="hardware/qcom/gps" name="android_hardware_qcom_gps" remote="CM"/>
   <project path="hardware/ril" name="android_hardware_ril" remote="CM"/>
   <project path="packages/apps/Superuser" name="android_packages_apps_Superuser" remote="CM"/>
   <project path="packages/apps/Torch" name="android_packages_apps_Torch" remote="CM"/>
@@ -303,6 +302,7 @@
   <project path="frameworks/opt/telephony" name="platform_frameworks_opt_telephony" remote="ASX"/>
   <project path="hardware/qcom/camera" name="platform_hardware_qcom_camera" remote="ASX"/>
   <project path="hardware/qcom/display" name="platform_hardware_qcom_display" remote="ASX"/>
+  <project path="hardware/qcom/gps" name="platform_hardware_qcom_gps" remote="ASX"/>
   <project path="hardware/qcom/media" name="platform_hardware_qcom_media" remote="ASX"/>
   <project path="hardware/libhardware" name="platform_hardware_libhardware" remote="ASX"/>
   <project path="hardware/libhardware_legacy" name="platform_hardware_libhardware_legacy" remote="ASX"/>
