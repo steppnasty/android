@@ -253,7 +253,6 @@
   <project path="system/media" name="platform/system/media"/>
   <project path="system/netd" name="platform/system/netd"/>
   <project path="system/security" name="platform/system/security"/>
-  <project path="system/vold" name="platform/system/vold"/>
 
   <!-- CAF Projects -->
   <project path="vendor/qcom/opensource/v8" name="platform/vendor/qcom-opensource/v8" remote="caf"/>
@@ -317,6 +316,7 @@
   <project path="packages/providers/ContactsProvider" name="platform_packages_providers_ContactsProvider" remote="ASX"/>
   <project path="system/core" name="platform_system_core" remote="ASX"/>
   <project path="system/extras" name="platform_system_extras" remote="ASX"/>
+  <project path="system/vold" name="platform_system_vold" remote="ASX"/>
   <project path="vendor/aospsx" name="platform_vendor_aospsx" remote="ASX"/>
   <project path="vendor/google" name="platform_vendor_google" remote="ASX"/>
   <project path="vendor/htc/doubleshot" name="platform_vendor_htc_doubleshot" remote="ASX"/>
